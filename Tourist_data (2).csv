@@ -1,0 +1,1001 @@
+Trip Id,Destination,Country,Start_Date,End_Date,Duration_Days,Traveler_Name,Gender,Nationality,Amount_Spent,People_Visited,Annual_Visitors,Trip_Budget,Destination_Economy,Transportation,Travel_Type,Annual_Tourism_Income
+1,New York,USA,24-11-2024,27-11-2024,3,Patrick Sanchez,Other,Burundi,4806,2,3844854,5191,High,Air,Business,25136471294
+2,New York,USA,08-02-2025,01-03-2025,21,Patrick Gardner,Female,Namibia,820,1,1671945,1367,Low,Cruise,Business,25136471294
+3,Paris,France,08-06-2024,28-06-2024,20,Brandon Hall,Male,Netherlands Antilles,9228,4,3798379,10247,High,Car,Solo,27439114547
+4,Tokyo,Japan,06-08-2023,31-08-2023,25,Michelle Miles,Female,Italy,5874,3,2708513,6414,Medium,Air,Solo,25514217912
+5,Rome,Italy,04-01-2024,10-01-2024,6,Donald Booth,Female,Senegal,5935,5,4537923,7687,Low,Bus,Business,26664516195
+6,New York,USA,02-04-2025,17-04-2025,15,Jay Ramirez,Male,Cuba,9344,3,6167228,10626,Low,Air,Solo,25136471294
+7,Dubai,UAE,01-03-2025,28-03-2025,27,Brandon Davis,Female,Tanzania,1607,2,1794522,2485,Medium,Bus,Family,26336822876
+8,Tokyo,Japan,09-04-2024,23-04-2024,14,Renee Blair,Female,Martinique,3732,3,1297935,5079,High,Train,Business,25514217912
+9,Dubai,UAE,21-10-2023,29-10-2023,8,Jamie Arnold,Female,Switzerland,6516,3,9444066,7065,High,Car,Solo,26336822876
+10,Dubai,UAE,16-11-2024,15-12-2024,29,Shannon Ray,Male,Romania,5468,4,4591946,5703,Low,Cruise,Family,26336822876
+11,Dubai,UAE,09-09-2023,02-10-2023,23,Darren Roberts,Female,Belgium,6782,4,2496987,7424,Low,Train,Business,26336822876
+12,Cape Town,South Africa,11-05-2025,22-05-2025,11,Brian Ramirez,Other,Norfolk Island,9877,4,9890057,10794,Medium,Train,Group,28898545230
+13,Cape Town,South Africa,24-04-2025,12-05-2025,18,Jacob Clark,Male,Ethiopia,1071,1,2664251,2456,Low,Bus,Business,28898545230
+14,New York,USA,12-01-2025,27-01-2025,15,Maria Lynch,Female,Chile,7968,5,4318028,9201,Low,Air,Business,25136471294
+15,London,UK,03-09-2024,30-09-2024,27,Carla Gray,Other,Uzbekistan,5873,1,5024115,6863,Low,Bus,Solo,27521149477
+16,London,UK,25-11-2024,14-12-2024,19,Colleen Nguyen,Male,Seychelles,8617,1,5107072,10440,High,Cruise,Business,27521149477
+17,Dubai,UAE,10-03-2025,17-03-2025,7,Rodney Trujillo,Female,Iran,2946,5,8997858,4927,Low,Cruise,Family,26336822876
+18,Sydney,Australia,09-02-2024,12-02-2024,3,Thomas Bradley,Male,Saint Barthelemy,6247,3,4117343,6465,Low,Cruise,Solo,29339201955
+19,New York,USA,17-03-2024,12-04-2024,26,Jonathan Wilkerson,Female,Norway,1433,5,2209911,1795,High,Bus,Business,25136471294
+20,Tokyo,Japan,07-07-2024,18-07-2024,11,Charles Mcgee,Other,Martinique,7232,2,9147886,8878,High,Train,Family,25514217912
+21,Rome,Italy,06-02-2024,01-03-2024,24,Jessica Silva,Other,Guyana,6418,4,8783481,7442,Low,Train,Group,26664516195
+22,New York,USA,03-01-2024,16-01-2024,13,Brenda Snyder PhD,Male,Tokelau,9938,5,3960684,11243,Low,Air,Solo,25136471294
+23,Paris,France,10-10-2023,20-10-2023,10,Christopher Becker,Male,Nauru,814,3,1288789,1966,Low,Car,Couple,27439114547
+24,Dubai,UAE,04-09-2023,24-09-2023,20,Kyle Mcdonald,Male,El Salvador,9655,5,8030103,10252,Medium,Bus,Group,26336822876
+25,New York,USA,18-09-2024,24-09-2024,6,Alexandra Le,Other,Pitcairn Islands,7362,3,7206470,8303,Medium,Air,Solo,25136471294
+26,Paris,France,03-06-2025,18-06-2025,15,Debra Davidson,Other,Bouvet Island (Bouvetoya),5859,1,4271761,6351,Low,Cruise,Couple,27439114547
+27,Tokyo,Japan,29-02-2024,16-03-2024,16,Jesse Mckay,Male,Turkey,4863,4,4291056,6753,Low,Bus,Business,25514217912
+28,New York,USA,25-01-2025,29-01-2025,4,Jonathan White,Other,United States Minor Outlying Islands,9156,1,1664689,11153,Low,Train,Couple,25136471294
+29,Sydney,Australia,07-10-2023,25-10-2023,18,Elizabeth Fowler,Male,Netherlands,6870,1,2862152,7746,Low,Bus,Family,29339201955
+30,Sydney,Australia,18-12-2023,30-12-2023,12,Phillip Ryan,Female,Slovakia (Slovak Republic),9405,4,2697059,9893,Medium,Train,Solo,29339201955
+31,Barcelona,Spain,02-07-2025,28-07-2025,26,April Nguyen,Other,Andorra,1298,3,1059074,1500,High,Bus,Business,25858011842
+32,Cape Town,South Africa,11-10-2023,19-10-2023,8,Sherry Decker,Male,Gambia,8620,1,3217625,8860,High,Air,Group,28898545230
+33,Rome,Italy,18-01-2024,24-01-2024,6,Shawn Arroyo,Other,Belize,4333,5,766754,5701,Low,Bus,Business,26664516195
+34,Barcelona,Spain,04-02-2025,23-02-2025,19,Mr. Philip Cannon,Female,Brunei Darussalam,4572,2,5371130,5160,Medium,Bus,Group,25858011842
+35,London,UK,10-12-2024,27-12-2024,17,Joshua Baker,Female,Tunisia,1488,1,7788755,2860,High,Air,Solo,27521149477
+36,Cape Town,South Africa,30-10-2024,08-11-2024,9,Daniel Ryan,Other,Saint Lucia,4645,2,5955396,6549,Low,Train,Family,28898545230
+37,London,UK,02-01-2025,10-01-2025,8,Eric Carney,Female,Pakistan,9200,3,8974152,9316,High,Cruise,Family,27521149477
+38,New York,USA,02-05-2024,09-05-2024,7,Joseph Martinez,Female,Czech Republic,2191,1,9381552,2609,Medium,Car,Business,25136471294
+39,Dubai,UAE,04-09-2023,29-09-2023,25,Kevin Hall,Female,Cyprus,3635,3,8579356,4735,Medium,Air,Solo,26336822876
+40,Rome,Italy,22-07-2023,20-08-2023,29,Mark Perez,Female,United Kingdom,1022,1,5696150,2701,Low,Car,Group,26664516195
+41,Sydney,Australia,10-08-2023,30-08-2023,20,Andrea Young,Other,Paraguay,7307,5,262230,7636,Low,Train,Business,29339201955
+42,Paris,France,28-07-2024,26-08-2024,29,Carlos Walls,Female,Montenegro,9843,5,2584601,10823,Low,Air,Family,27439114547
+43,Bangkok,Thailand,06-10-2024,03-11-2024,28,Richard Aguirre,Male,Comoros,6162,2,4286414,7627,Low,Car,Business,28843595717
+44,Rome,Italy,28-09-2023,20-10-2023,22,Jeffrey Henderson,Other,Lao People's Democratic Republic,2832,2,2826327,4570,Low,Bus,Solo,26664516195
+45,Tokyo,Japan,17-05-2025,12-06-2025,26,Megan Joyce,Female,Bolivia,7045,2,4576257,7471,High,Air,Couple,25514217912
+46,Paris,France,02-09-2023,02-10-2023,30,Gerald Hensley,Female,Egypt,3944,2,7822606,4760,Medium,Train,Group,27439114547
+47,Paris,France,12-12-2023,05-01-2024,24,Jerry Henderson,Male,Fiji,6828,3,4774183,8698,Low,Car,Family,27439114547
+48,Cape Town,South Africa,10-07-2024,25-07-2024,15,Thomas Ramos,Other,Tokelau,9085,3,563060,9421,Medium,Train,Business,28898545230
+49,London,UK,11-05-2025,15-05-2025,4,Amber Kidd,Male,Taiwan,7419,3,5362632,8412,High,Cruise,Solo,27521149477
+50,Rome,Italy,28-07-2023,18-08-2023,21,Tammy Allison,Male,Chad,4473,1,7415831,4576,High,Cruise,Group,26664516195
+51,Bangkok,Thailand,27-05-2024,12-06-2024,16,Mr. James Brown,Male,Hong Kong,5709,5,5366630,7167,Low,Car,Business,28843595717
+52,London,UK,18-07-2023,11-08-2023,24,Mrs. Rachel Gibson,Female,Jamaica,5644,4,5060271,6879,Low,Train,Couple,27521149477
+53,Rome,Italy,08-01-2025,01-02-2025,24,Whitney Peters,Other,Saint Barthelemy,3151,5,9648001,3867,Medium,Cruise,Solo,26664516195
+54,London,UK,29-07-2024,10-08-2024,12,Edward Novak,Male,Morocco,7343,5,5506444,8395,Medium,Bus,Group,27521149477
+55,Cape Town,South Africa,07-02-2025,25-02-2025,18,Nicole Brown,Other,Mozambique,3080,1,4861145,4235,High,Cruise,Family,28898545230
+56,New York,USA,21-07-2024,19-08-2024,29,Sarah Moore,Male,Madagascar,5385,2,3440845,5786,Low,Air,Group,25136471294
+57,Sydney,Australia,17-09-2023,09-10-2023,22,Andrea Jones,Male,Tokelau,7761,4,9758155,8259,High,Bus,Couple,29339201955
+58,Rome,Italy,15-01-2024,25-01-2024,10,Todd Hudson,Male,Morocco,390,1,7232769,938,Low,Cruise,Couple,26664516195
+59,Paris,France,20-10-2024,09-11-2024,20,Bradley Sandoval,Male,Monaco,2288,4,2337058,4029,Medium,Cruise,Business,27439114547
+60,Barcelona,Spain,26-08-2024,08-09-2024,13,Dean Santiago,Female,Germany,8570,4,9291766,9583,Low,Bus,Couple,25858011842
+61,London,UK,18-01-2024,14-02-2024,27,Carlos Brewer,Male,Kuwait,4843,5,8230188,6226,Low,Car,Couple,27521149477
+62,New York,USA,18-03-2024,12-04-2024,25,Taylor Smith,Female,Niger,4141,3,5734586,4895,High,Air,Group,25136471294
+63,Tokyo,Japan,26-09-2024,06-10-2024,10,Angel Lewis MD,Female,Venezuela,2803,2,1177581,3752,Medium,Car,Business,25514217912
+64,Sydney,Australia,13-04-2024,29-04-2024,16,Sherry Wood,Male,Cayman Islands,3688,4,6634336,5641,High,Air,Business,29339201955
+65,Rome,Italy,21-06-2024,09-07-2024,18,Michele Carr,Male,Sri Lanka,6063,3,6642890,7910,Medium,Cruise,Business,26664516195
+66,Barcelona,Spain,05-12-2024,15-12-2024,10,Mary Spencer,Female,Venezuela,3895,3,7412114,4989,Low,Bus,Family,25858011842
+67,Rome,Italy,13-12-2024,08-01-2025,26,Shawn Baker,Male,Tuvalu,7957,2,9061107,8112,Medium,Cruise,Business,26664516195
+68,Paris,France,08-10-2023,13-10-2023,5,Brittney Campbell,Other,Cote d'Ivoire,7322,2,7846014,7794,Low,Car,Couple,27439114547
+69,Bangkok,Thailand,24-01-2025,02-02-2025,9,Michael Farrell,Female,Macedonia,5655,3,6460682,6324,Medium,Car,Solo,28843595717
+70,Sydney,Australia,30-07-2024,02-08-2024,3,Terry Williams,Other,Norfolk Island,9137,1,5971360,9696,High,Air,Solo,29339201955
+71,Paris,France,10-06-2024,20-06-2024,10,Amanda Cook,Male,Bulgaria,633,5,2656551,1221,Low,Bus,Solo,27439114547
+72,Barcelona,Spain,22-11-2024,01-12-2024,9,Candice Ramos,Female,Romania,4498,3,2915034,5838,High,Air,Group,25858011842
+73,London,UK,13-06-2024,19-06-2024,6,Ashley Landry,Other,Portugal,720,3,9760266,2207,Medium,Bus,Group,27521149477
+74,New York,USA,18-06-2025,09-07-2025,21,Andrew Wood,Other,Mexico,4278,1,5159717,6119,High,Cruise,Solo,25136471294
+75,Barcelona,Spain,09-11-2023,07-12-2023,28,Andrew Diaz,Male,Venezuela,5988,5,7286990,7442,Medium,Air,Business,25858011842
+76,Bangkok,Thailand,26-03-2025,29-03-2025,3,Amanda Howard,Female,Pitcairn Islands,8331,1,7373315,9172,High,Bus,Group,28843595717
+77,Rome,Italy,26-01-2024,03-02-2024,8,Heather Castro,Other,Tunisia,8848,3,9129043,10534,Medium,Bus,Couple,26664516195
+78,Barcelona,Spain,27-05-2024,07-06-2024,11,Nicole Frost,Female,Dominica,4322,1,4779639,6227,Medium,Train,Couple,25858011842
+79,Barcelona,Spain,18-05-2025,09-06-2025,22,Robert Thompson,Other,Isle of Man,6509,3,581506,7621,Medium,Train,Couple,25858011842
+80,Dubai,UAE,05-08-2023,19-08-2023,14,Tim Patton,Female,Isle of Man,5876,3,4735017,7114,Low,Cruise,Group,26336822876
+81,New York,USA,31-03-2025,10-04-2025,10,Nancy Wright,Other,Cayman Islands,6958,4,9414311,8610,Low,Bus,Couple,25136471294
+82,Sydney,Australia,19-03-2025,16-04-2025,28,Janet Williams,Male,Latvia,1824,3,3817770,2752,High,Train,Family,29339201955
+83,Barcelona,Spain,05-01-2024,19-01-2024,14,Thomas Bailey,Female,Swaziland,9368,5,5867292,10339,High,Cruise,Family,25858011842
+84,Bangkok,Thailand,25-03-2025,19-04-2025,25,Courtney Keller,Female,Iran,4738,3,4317853,5310,Low,Train,Family,28843595717
+85,New York,USA,27-03-2024,22-04-2024,26,Benjamin Ayala,Other,Guernsey,3333,2,3730331,4945,Medium,Car,Business,25136471294
+86,Cape Town,South Africa,26-11-2024,18-12-2024,22,Meghan Anthony,Female,Greenland,1947,2,5070190,2512,Medium,Train,Family,28898545230
+87,Paris,France,15-07-2025,09-08-2025,25,Shawn Green,Other,Morocco,2373,3,863626,2584,High,Car,Group,27439114547
+88,Sydney,Australia,08-02-2024,14-02-2024,6,Kyle Reed,Male,Solomon Islands,9705,3,7975173,10785,Medium,Car,Group,29339201955
+89,Paris,France,16-03-2024,27-03-2024,11,William Wilson,Female,United Arab Emirates,2169,1,6822755,3276,Low,Cruise,Solo,27439114547
+90,Tokyo,Japan,06-10-2024,13-10-2024,7,Andrew Graham,Other,Maldives,5278,1,4263953,5620,High,Bus,Business,25514217912
+91,Barcelona,Spain,04-07-2025,01-08-2025,28,Melissa Bentley,Other,Saint Pierre and Miquelon,3997,5,6481684,5019,Medium,Car,Business,25858011842
+92,Rome,Italy,18-12-2024,30-12-2024,12,Jeffrey Rush,Other,Uruguay,1286,5,1764863,2948,Low,Train,Family,26664516195
+93,New York,USA,29-03-2024,06-04-2024,8,Mary Martinez,Male,United Arab Emirates,3147,5,1359379,3567,Low,Bus,Couple,25136471294
+94,Barcelona,Spain,06-03-2024,24-03-2024,18,Mary Nguyen,Female,Qatar,834,2,4933597,2381,Medium,Bus,Solo,25858011842
+95,Dubai,UAE,02-03-2024,13-03-2024,11,Cheryl Ortega,Other,Hong Kong,9963,2,7232648,10298,High,Train,Group,26336822876
+96,London,UK,24-12-2024,22-01-2025,29,Carrie Carroll,Male,Iraq,1469,1,2883722,3192,Medium,Cruise,Business,27521149477
+97,London,UK,14-09-2024,01-10-2024,17,Elizabeth Clark,Male,Solomon Islands,7979,3,6852972,8636,High,Cruise,Couple,27521149477
+98,Sydney,Australia,09-10-2024,14-10-2024,5,Erica Ramos,Other,Peru,953,4,5507658,2289,Medium,Air,Solo,29339201955
+99,Dubai,UAE,29-12-2023,22-01-2024,24,Rebecca Moyer,Other,Saint Pierre and Miquelon,9919,1,4621644,11199,Low,Train,Couple,26336822876
+100,Cape Town,South Africa,25-11-2023,18-12-2023,23,Diane Beck,Female,Nicaragua,4857,2,9920201,5849,High,Bus,Solo,28898545230
+101,Sydney,Australia,02-04-2024,16-04-2024,14,Trevor Young,Female,Georgia,5760,3,1854894,7616,Low,Car,Couple,29339201955
+102,Sydney,Australia,07-01-2024,19-01-2024,12,Brittany Williams,Other,Lebanon,6861,5,715675,7892,Low,Car,Family,29339201955
+103,Bangkok,Thailand,02-11-2024,08-11-2024,6,Angel Perry,Female,Niue,8731,1,9203209,9777,Medium,Air,Group,28843595717
+104,Cape Town,South Africa,06-10-2024,20-10-2024,14,Michael Snyder,Other,Ecuador,8467,4,965901,8983,Medium,Cruise,Group,28898545230
+105,London,UK,08-11-2023,25-11-2023,17,Abigail Potter,Other,Sierra Leone,8241,1,584348,9631,High,Train,Group,27521149477
+106,London,UK,03-06-2025,23-06-2025,20,Jeffery Thompson,Male,Qatar,9348,4,1663790,9908,Low,Bus,Solo,27521149477
+107,Tokyo,Japan,22-08-2024,09-09-2024,18,Justin Lowery,Other,British Virgin Islands,5081,5,4687308,6031,Medium,Bus,Group,25514217912
+108,Sydney,Australia,05-07-2024,25-07-2024,20,John Schmidt,Male,Moldova,6584,2,8626867,8212,Low,Air,Family,29339201955
+109,Rome,Italy,21-10-2024,03-11-2024,13,Pedro Ramos,Other,Suriname,4677,1,4845250,6263,Medium,Cruise,Business,26664516195
+110,Sydney,Australia,25-01-2025,24-02-2025,30,Jessica Meadows,Male,Kiribati,7616,5,8225900,8422,Medium,Cruise,Business,29339201955
+111,Rome,Italy,12-06-2025,29-06-2025,17,Scott Cole,Female,Sao Tome and Principe,3390,2,9693172,4274,Low,Bus,Solo,26664516195
+112,Bangkok,Thailand,25-01-2024,20-02-2024,26,Destiny Strickland,Female,Libyan Arab Jamahiriya,6546,4,2651903,7660,Low,Train,Business,28843595717
+113,Barcelona,Spain,14-11-2024,27-11-2024,13,Jeremiah Reeves,Male,Dominica,7513,1,8923994,9477,Medium,Air,Group,25858011842
+114,Rome,Italy,13-02-2024,14-03-2024,30,Steven Miller,Other,Canada,2829,1,7976745,4529,Medium,Car,Business,26664516195
+115,Rome,Italy,12-01-2024,04-02-2024,23,Christian Lewis,Male,Israel,5683,5,6475499,6431,High,Bus,Business,26664516195
+116,Paris,France,28-05-2024,19-06-2024,22,John Brown,Male,Syrian Arab Republic,4146,3,3916586,5775,Low,Bus,Solo,27439114547
+117,New York,USA,07-06-2024,24-06-2024,17,Randy Shah,Male,Angola,5206,1,871600,5970,Low,Car,Family,25136471294
+118,Bangkok,Thailand,12-05-2025,28-05-2025,16,Laura Woods,Male,Western Sahara,4300,5,7013081,5559,High,Train,Group,28843595717
+119,Tokyo,Japan,15-04-2024,20-04-2024,5,James Snow,Other,Syrian Arab Republic,6567,5,4140453,7686,High,Train,Group,25514217912
+120,Sydney,Australia,06-06-2024,29-06-2024,23,Morgan Marsh,Female,Ukraine,7829,3,257662,9769,Medium,Car,Business,29339201955
+121,Tokyo,Japan,04-01-2024,09-01-2024,5,Don Tucker MD,Female,Paraguay,5961,5,5118975,7369,Medium,Car,Couple,25514217912
+122,London,UK,25-12-2024,03-01-2025,9,Misty Pittman,Female,Uruguay,8216,1,4079651,9097,High,Car,Business,27521149477
+123,London,UK,24-10-2023,18-11-2023,25,Ms. Susan Vargas,Female,Panama,659,4,4705016,775,High,Air,Business,27521149477
+124,Sydney,Australia,07-08-2023,05-09-2023,29,Jeffrey Camacho,Female,Cocos (Keeling) Islands,4070,5,6010964,4618,High,Train,Business,29339201955
+125,London,UK,25-08-2023,18-09-2023,24,Garrett Gibson,Other,Guadeloupe,2540,1,761401,3272,Medium,Air,Business,27521149477
+126,Bangkok,Thailand,27-02-2025,25-03-2025,26,Diana Bean,Male,Italy,1776,3,5581437,3406,Medium,Train,Group,28843595717
+127,Tokyo,Japan,28-01-2024,25-02-2024,28,Julie Curry,Other,Austria,6294,5,8518719,8264,Medium,Train,Family,25514217912
+128,Sydney,Australia,13-04-2024,11-05-2024,28,Barry Bernard,Female,Armenia,5849,1,7957296,6103,Low,Train,Couple,29339201955
+129,Cape Town,South Africa,21-02-2025,07-03-2025,14,David Combs,Male,Niger,6764,1,4536878,7962,Low,Bus,Family,28898545230
+130,London,UK,12-11-2023,03-12-2023,21,John Wilson,Female,Yemen,6386,1,4022880,7451,Low,Cruise,Business,27521149477
+131,Bangkok,Thailand,02-01-2024,24-01-2024,22,David Wood,Male,Netherlands,1335,4,5169909,2764,Medium,Air,Group,28843595717
+132,Paris,France,30-10-2024,03-11-2024,4,Michelle Strickland,Female,Central African Republic,8371,1,1730611,8951,High,Train,Couple,27439114547
+133,Sydney,Australia,14-03-2024,28-03-2024,14,Alexander Collins,Other,Philippines,9150,4,9953935,10770,High,Train,Couple,29339201955
+134,New York,USA,21-06-2025,20-07-2025,29,Jennifer Espinoza,Female,Belarus,6986,3,648888,8499,Medium,Train,Couple,25136471294
+135,Sydney,Australia,18-10-2024,28-10-2024,10,Lori Garcia,Female,Sierra Leone,1927,3,9234621,3873,High,Car,Solo,29339201955
+136,Rome,Italy,07-03-2024,18-03-2024,11,Lindsay Martinez,Male,Monaco,2301,4,1638024,3758,Low,Cruise,Solo,26664516195
+137,Paris,France,15-03-2025,12-04-2025,28,Joseph Stanley,Female,Bangladesh,4290,2,9572046,4810,Low,Cruise,Group,27439114547
+138,Barcelona,Spain,12-08-2024,21-08-2024,9,Alexandria Fisher,Male,Liechtenstein,5683,2,147572,6350,Low,Train,Business,25858011842
+139,London,UK,06-10-2023,03-11-2023,28,Jack Snow,Male,Kuwait,2101,1,2311291,2231,Medium,Train,Business,27521149477
+140,Bangkok,Thailand,16-01-2025,19-01-2025,3,Christopher Boyd,Male,Pakistan,4647,1,2226655,6266,Medium,Cruise,Solo,28843595717
+141,New York,USA,11-02-2024,29-02-2024,18,Tamara Hampton,Female,Lao People's Democratic Republic,6231,5,1929622,7256,High,Train,Business,25136471294
+142,Paris,France,19-06-2024,15-07-2024,26,Leslie Morris,Other,Ecuador,8843,3,7784678,10260,Low,Air,Couple,27439114547
+143,Rome,Italy,22-04-2025,08-05-2025,16,Diana Hayes,Other,Sao Tome and Principe,2068,4,7541741,2318,Low,Car,Business,26664516195
+144,Tokyo,Japan,11-07-2024,16-07-2024,5,Mary Rogers,Male,Lithuania,4805,5,9920789,6028,High,Car,Couple,25514217912
+145,Barcelona,Spain,07-05-2025,26-05-2025,19,John Kelly,Female,Eritrea,7733,5,7317547,8036,High,Air,Business,25858011842
+146,Dubai,UAE,06-04-2024,22-04-2024,16,Kyle Beard,Female,Micronesia,4043,4,5786328,5837,Medium,Bus,Couple,26336822876
+147,New York,USA,24-07-2023,06-08-2023,13,Cheryl Allen,Female,Ireland,5420,3,6379729,5832,High,Bus,Solo,25136471294
+148,New York,USA,30-07-2024,28-08-2024,29,Cynthia Alvarez,Male,Rwanda,1827,4,1720082,3451,High,Car,Group,25136471294
+149,Cape Town,South Africa,01-08-2024,05-08-2024,4,Alan Phillips,Other,Iraq,9501,5,5630541,10973,Low,Bus,Family,28898545230
+150,Rome,Italy,04-01-2025,03-02-2025,30,Matthew Wood,Other,Mexico,1142,3,5342022,1962,Low,Cruise,Business,26664516195
+151,Dubai,UAE,01-09-2024,08-09-2024,7,Zachary Pierce,Other,Guinea,8200,2,1915603,9017,High,Car,Solo,26336822876
+152,London,UK,12-01-2025,02-02-2025,21,Eric Hall,Male,Saint Helena,7330,5,9440543,7483,High,Car,Solo,27521149477
+153,Tokyo,Japan,13-12-2023,24-12-2023,11,Patrick Tapia,Other,Portugal,5362,3,5989195,5474,Low,Train,Business,25514217912
+154,Rome,Italy,07-12-2023,12-12-2023,5,Parker Hill,Male,Myanmar,802,1,9000022,1342,Medium,Bus,Couple,26664516195
+155,Bangkok,Thailand,26-02-2025,06-03-2025,8,Diane Garcia,Female,Congo,5405,3,9622639,6726,Low,Air,Group,28843595717
+156,Tokyo,Japan,03-03-2024,30-03-2024,27,Christopher Smith,Other,Marshall Islands,1115,1,4665128,2122,High,Bus,Couple,25514217912
+157,Barcelona,Spain,23-10-2023,09-11-2023,17,William Tran,Female,Qatar,4775,2,8695744,5108,Medium,Bus,Solo,25858011842
+158,London,UK,23-10-2023,16-11-2023,24,Nicole Garcia,Other,American Samoa,8272,5,5274418,8465,Low,Bus,Business,27521149477
+159,Paris,France,04-10-2024,07-10-2024,3,John Peterson,Male,Austria,5238,2,2402417,6903,Medium,Car,Family,27439114547
+160,New York,USA,29-01-2024,01-02-2024,3,Karen Short,Female,Iran,7355,2,2267376,8233,High,Train,Business,25136471294
+161,Cape Town,South Africa,01-08-2024,30-08-2024,29,Mark Brown,Other,Canada,6102,1,6761748,7966,High,Air,Couple,28898545230
+162,Paris,France,07-04-2025,24-04-2025,17,Elizabeth Mcknight,Male,British Indian Ocean Territory (Chagos Archipelago),5429,5,7302195,6703,Medium,Bus,Family,27439114547
+163,New York,USA,22-09-2024,07-10-2024,15,Lisa Gibbs,Male,Czech Republic,5621,2,7819145,7424,High,Car,Solo,25136471294
+164,Rome,Italy,10-03-2025,09-04-2025,30,Joanna Ramos,Male,Tokelau,4286,4,9979620,5206,High,Air,Couple,26664516195
+165,London,UK,16-10-2024,11-11-2024,26,Elizabeth Oliver DDS,Female,Saint Vincent and the Grenadines,3930,3,2920798,4186,High,Air,Business,27521149477
+166,Cape Town,South Africa,02-10-2023,11-10-2023,9,Christine Clark,Female,Panama,6052,2,4063933,6362,Low,Car,Group,28898545230
+167,Tokyo,Japan,18-09-2023,10-10-2023,22,Christopher Jones,Male,Afghanistan,1534,2,8389908,2584,High,Cruise,Couple,25514217912
+168,Barcelona,Spain,29-05-2024,21-06-2024,23,Kirk Carter,Other,Djibouti,5595,3,2632644,6595,Low,Bus,Couple,25858011842
+169,London,UK,25-02-2024,24-03-2024,28,Michele Gibson,Female,Poland,9989,1,6004610,11128,Low,Car,Couple,27521149477
+170,Sydney,Australia,14-01-2024,18-01-2024,4,Rachel Weber,Male,Panama,6341,3,1387332,7761,Low,Cruise,Business,29339201955
+171,Cape Town,South Africa,01-04-2025,16-04-2025,15,Jessica Stephens,Female,Oman,9808,5,788246,10829,High,Train,Family,28898545230
+172,Barcelona,Spain,09-11-2023,27-11-2023,18,Samantha Jones,Other,Chad,2771,1,7658523,3082,Medium,Air,Business,25858011842
+173,Tokyo,Japan,23-03-2025,27-03-2025,4,Paul Carroll,Male,France,7472,4,8892411,8642,High,Train,Family,25514217912
+174,Bangkok,Thailand,22-06-2024,04-07-2024,12,Michael Lyons,Female,Western Sahara,6997,3,978547,8713,High,Car,Solo,28843595717
+175,Bangkok,Thailand,13-02-2024,19-02-2024,6,Katherine Miller,Other,Armenia,6633,3,4327787,8215,High,Cruise,Group,28843595717
+176,Bangkok,Thailand,06-06-2025,11-06-2025,5,Frank Wright,Other,Bermuda,2617,3,5304824,4060,High,Bus,Group,28843595717
+177,Barcelona,Spain,10-01-2024,04-02-2024,25,Sara Johnston,Male,Zambia,5372,5,6419630,6789,Medium,Train,Business,25858011842
+178,New York,USA,02-08-2023,25-08-2023,23,Miss Debra Williams PhD,Other,Latvia,7237,5,6170468,7374,Medium,Car,Group,25136471294
+179,Dubai,UAE,23-08-2024,05-09-2024,13,Sydney White,Female,Mozambique,3445,2,2407963,3862,Low,Car,Solo,26336822876
+180,Cape Town,South Africa,19-06-2024,16-07-2024,27,Katherine Davis,Other,Guernsey,8926,1,5749968,10820,High,Train,Business,28898545230
+181,Rome,Italy,29-05-2024,05-06-2024,7,Michael Hodge,Male,Greenland,3262,5,2877286,4838,Medium,Air,Couple,26664516195
+182,Bangkok,Thailand,31-05-2024,24-06-2024,24,Donna Landry,Other,Suriname,4191,4,4880297,5831,High,Bus,Group,28843595717
+183,Cape Town,South Africa,26-02-2025,08-03-2025,10,Jordan Edwards,Female,Gibraltar,7984,2,6271347,9473,High,Bus,Couple,28898545230
+184,London,UK,15-10-2023,11-11-2023,27,Jennifer Robertson,Female,Afghanistan,8539,5,7123963,8970,Low,Cruise,Group,27521149477
+185,London,UK,08-12-2024,12-12-2024,4,Julia Brown,Other,Malaysia,8173,3,9403649,8483,High,Cruise,Solo,27521149477
+186,London,UK,23-04-2024,28-04-2024,5,Kathleen Ramos,Male,Austria,4769,4,8712629,5170,Medium,Air,Group,27521149477
+187,Sydney,Australia,22-12-2023,05-01-2024,14,Carlos Roberts,Male,Turkmenistan,7097,1,6751393,8225,Medium,Train,Couple,29339201955
+188,New York,USA,09-01-2025,23-01-2025,14,Mr. Mark Lloyd,Male,Russian Federation,761,3,1762338,2579,High,Car,Group,25136471294
+189,Tokyo,Japan,17-11-2023,21-11-2023,4,Adam Russell,Female,Czech Republic,8040,2,7970361,9058,High,Air,Solo,25514217912
+190,Paris,France,30-04-2025,11-05-2025,11,Julia Wilson,Male,Syrian Arab Republic,2749,5,8954536,3715,Low,Car,Group,27439114547
+191,London,UK,13-11-2023,19-11-2023,6,Dr. Jordan Hill PhD,Male,Latvia,4206,4,7769093,4434,Low,Bus,Business,27521149477
+192,Cape Town,South Africa,22-01-2024,25-01-2024,3,Charles Lee,Other,Nepal,8743,5,4159048,10314,Low,Car,Couple,28898545230
+193,Paris,France,14-08-2024,05-09-2024,22,Breanna Jones,Female,Sierra Leone,4241,5,7088844,4724,High,Air,Business,27439114547
+194,Bangkok,Thailand,21-03-2025,26-03-2025,5,Gina French,Other,Ethiopia,9214,5,8616493,10448,Low,Bus,Couple,28843595717
+195,Paris,France,14-04-2025,07-05-2025,23,Nicholas Monroe,Female,Morocco,6416,3,372499,7247,Low,Car,Group,27439114547
+196,New York,USA,10-12-2024,06-01-2025,27,Charles Ryan MD,Other,Mexico,5747,2,843829,6568,High,Car,Group,25136471294
+197,Sydney,Australia,28-02-2025,25-03-2025,25,Jordan Morris,Female,Comoros,3286,2,1158651,4852,Medium,Air,Family,29339201955
+198,Dubai,UAE,08-01-2025,12-01-2025,4,James Chase,Male,Isle of Man,986,3,5302210,2141,Medium,Cruise,Couple,26336822876
+199,London,UK,19-08-2023,23-08-2023,4,John Mcintyre,Other,Hong Kong,3431,3,6089032,5296,Low,Car,Family,27521149477
+200,New York,USA,11-05-2024,08-06-2024,28,Rebecca Pearson MD,Female,Argentina,7459,4,7477556,9391,Medium,Car,Group,25136471294
+201,Sydney,Australia,23-10-2023,17-11-2023,25,Leslie Kane,Female,Tunisia,6318,5,4574830,8058,Low,Bus,Solo,29339201955
+202,Rome,Italy,03-05-2025,25-05-2025,22,Joseph Bryant,Male,Saint Helena,9237,3,5489033,9547,Low,Car,Family,26664516195
+203,London,UK,05-11-2023,22-11-2023,17,Matthew Moore,Other,Latvia,7281,2,7547546,8100,Medium,Air,Family,27521149477
+204,Barcelona,Spain,15-03-2025,31-03-2025,16,Gina Schwartz,Female,Pakistan,1239,1,6915076,2083,High,Train,Solo,25858011842
+205,Tokyo,Japan,17-09-2023,17-10-2023,30,Sarah Villarreal,Other,Hong Kong,7479,1,2217788,7716,Low,Car,Family,25514217912
+206,Rome,Italy,18-03-2024,08-04-2024,21,Stacy Freeman,Male,Mauritania,2813,4,6323751,3674,Medium,Air,Business,26664516195
+207,Tokyo,Japan,13-08-2023,01-09-2023,19,Cynthia Cohen,Female,France,6821,3,4775638,7432,Low,Air,Group,25514217912
+208,Sydney,Australia,09-01-2024,28-01-2024,19,Jessica Garcia,Female,Norfolk Island,9502,1,4491883,11189,Medium,Bus,Group,29339201955
+209,Barcelona,Spain,13-01-2025,25-01-2025,12,Jill Benson,Other,United Kingdom,8347,2,2157514,8724,Low,Bus,Group,25858011842
+210,Sydney,Australia,08-08-2023,13-08-2023,5,Robert Carter,Other,Holy See (Vatican City State),5536,3,1189496,6762,High,Car,Family,29339201955
+211,Tokyo,Japan,15-06-2024,10-07-2024,25,Joseph Knight,Other,Somalia,3152,3,8635505,3711,Low,Train,Group,25514217912
+212,Dubai,UAE,03-12-2023,31-12-2023,28,Bob Pitts,Female,Nicaragua,730,3,9394937,2002,Medium,Bus,Business,26336822876
+213,Tokyo,Japan,28-12-2024,19-01-2025,22,Thomas Thomas,Male,Kyrgyz Republic,1377,3,6780015,2945,High,Bus,Business,25514217912
+214,Rome,Italy,23-11-2024,20-12-2024,27,David Smith,Female,Spain,9719,1,2202634,10468,High,Air,Couple,26664516195
+215,Sydney,Australia,12-07-2024,05-08-2024,24,Megan Moore,Other,Kenya,5944,2,9349336,7354,High,Train,Group,29339201955
+216,Rome,Italy,10-04-2024,29-04-2024,19,Elizabeth Hayden DDS,Male,Korea,2334,5,2667173,3056,Low,Train,Family,26664516195
+217,Dubai,UAE,03-05-2025,17-05-2025,14,Zachary Castaneda,Other,Botswana,4953,1,4304459,5455,High,Cruise,Family,26336822876
+218,Tokyo,Japan,17-01-2024,09-02-2024,23,Ian Phillips,Female,Reunion,9040,1,8531778,10452,Low,Cruise,Business,25514217912
+219,Tokyo,Japan,02-03-2024,10-03-2024,8,Ronald Foster,Other,Algeria,5831,5,791125,7621,Low,Air,Solo,25514217912
+220,Barcelona,Spain,28-09-2024,09-10-2024,11,Paula Beltran,Other,United States Minor Outlying Islands,3753,5,7089166,5118,High,Air,Couple,25858011842
+221,Cape Town,South Africa,30-10-2024,11-11-2024,12,Sandra Leach,Other,Singapore,5249,4,4208369,6997,High,Bus,Family,28898545230
+222,Sydney,Australia,28-03-2025,02-04-2025,5,Robert Robinson,Other,Comoros,1281,2,7475356,2232,Medium,Bus,Group,29339201955
+223,Bangkok,Thailand,10-11-2024,02-12-2024,22,Perry Saunders,Male,Pitcairn Islands,5421,3,5894356,6337,Low,Car,Business,28843595717
+224,Cape Town,South Africa,28-04-2025,04-05-2025,6,Brent Burton,Female,Armenia,4260,4,2155576,4907,Medium,Train,Group,28898545230
+225,New York,USA,12-03-2024,16-03-2024,4,Amanda Diaz,Female,Bulgaria,6593,5,7115136,7201,Low,Car,Business,25136471294
+226,Bangkok,Thailand,25-09-2023,04-10-2023,9,Erin Perry,Male,Cook Islands,8463,5,7931858,9584,Medium,Bus,Solo,28843595717
+227,New York,USA,27-10-2023,11-11-2023,15,Sherri Diaz,Other,Macao,7791,2,3709524,9085,Medium,Air,Solo,25136471294
+228,London,UK,25-06-2025,13-07-2025,18,Christopher Sloan,Other,Western Sahara,8010,3,9104176,8126,Low,Bus,Group,27521149477
+229,London,UK,25-07-2024,20-08-2024,26,Elizabeth Harrell,Female,Spain,6906,3,859041,7826,Low,Cruise,Business,27521149477
+230,Dubai,UAE,14-10-2023,28-10-2023,14,Bernard Webster,Other,Czech Republic,5028,1,6581857,6160,Medium,Cruise,Family,26336822876
+231,Barcelona,Spain,15-05-2025,08-06-2025,24,Megan Sanders,Other,Tanzania,2246,2,1722046,3152,Medium,Car,Business,25858011842
+232,Bangkok,Thailand,01-04-2025,28-04-2025,27,Ann Foster,Male,Estonia,3561,5,8641658,4483,High,Air,Solo,28843595717
+233,Paris,France,05-09-2024,12-09-2024,7,Jacob Curry,Other,Estonia,5756,4,8812957,6791,Low,Cruise,Business,27439114547
+234,Tokyo,Japan,13-10-2024,26-10-2024,13,Mark Watson,Other,Peru,5518,2,6692683,6880,High,Car,Business,25514217912
+235,Bangkok,Thailand,14-01-2024,02-02-2024,19,Manuel Hahn,Other,Greece,9021,4,9544301,9734,Medium,Air,Family,28843595717
+236,Bangkok,Thailand,26-06-2025,20-07-2025,24,Maria Reid,Male,Kyrgyz Republic,7124,5,5261977,8855,High,Air,Business,28843595717
+237,Sydney,Australia,22-06-2025,03-07-2025,11,Marie Wilson,Other,Aruba,9777,5,3917541,11354,Low,Cruise,Couple,29339201955
+238,Tokyo,Japan,14-08-2023,02-09-2023,19,Johnathan Davis,Other,Tuvalu,6529,2,4163384,6693,High,Air,Group,25514217912
+239,Paris,France,06-09-2024,23-09-2024,17,Jesse Santiago,Female,Samoa,7161,2,7028320,8675,Low,Bus,Business,27439114547
+240,Barcelona,Spain,07-01-2025,25-01-2025,18,Jennifer Newton,Other,Cape Verde,1320,2,8802060,1844,High,Car,Couple,25858011842
+241,Cape Town,South Africa,03-06-2025,18-06-2025,15,Brett Burns,Female,Ireland,3137,4,9044387,3938,High,Car,Family,28898545230
+242,Barcelona,Spain,15-07-2025,02-08-2025,18,Amanda Wood,Male,Kenya,4338,3,9463140,5049,Low,Car,Family,25858011842
+243,Dubai,UAE,26-06-2024,21-07-2024,25,Savannah Garcia,Other,Poland,8311,3,8149765,9125,High,Car,Family,26336822876
+244,New York,USA,27-04-2024,18-05-2024,21,Vanessa Howard,Other,Indonesia,9199,4,6719156,10975,Medium,Train,Family,25136471294
+245,Paris,France,16-02-2024,28-02-2024,12,Bryan Charles,Other,Korea,1594,3,7521839,3037,Medium,Bus,Group,27439114547
+246,Dubai,UAE,26-09-2023,25-10-2023,29,Maria Harper,Other,Angola,4742,5,4657052,5123,Low,Cruise,Business,26336822876
+247,Dubai,UAE,25-08-2023,04-09-2023,10,Dana Martinez,Male,Monaco,9000,2,4006349,9207,Low,Bus,Family,26336822876
+248,Sydney,Australia,23-12-2023,29-12-2023,6,Phillip Clark,Other,Cuba,2552,1,9333383,2975,Medium,Bus,Couple,29339201955
+249,Dubai,UAE,08-04-2025,05-05-2025,27,Erin Hernandez,Female,United Arab Emirates,5562,3,1092583,7521,Low,Cruise,Group,26336822876
+250,Cape Town,South Africa,21-10-2024,16-11-2024,26,Scott Thomas,Other,Bulgaria,911,2,7110946,2817,Low,Air,Couple,28898545230
+251,Sydney,Australia,08-09-2024,16-09-2024,8,Christopher Guerrero,Other,Anguilla,5042,1,255477,5753,High,Cruise,Solo,29339201955
+252,Bangkok,Thailand,27-10-2023,08-11-2023,12,Richard Young,Female,Gibraltar,9201,5,8386475,11122,Low,Cruise,Couple,28843595717
+253,London,UK,29-07-2023,07-08-2023,9,Anthony Harmon,Male,Mali,5717,2,7799307,7144,Medium,Train,Solo,27521149477
+254,Bangkok,Thailand,13-10-2023,10-11-2023,28,Karen Strickland,Female,Malawi,9602,2,3044316,10953,High,Bus,Couple,28843595717
+255,Cape Town,South Africa,20-10-2024,02-11-2024,13,Jonathan Dougherty,Male,Aruba,6867,1,3200114,7254,Medium,Car,Group,28898545230
+256,Paris,France,31-01-2025,11-02-2025,11,Sharon Boyd,Female,Kuwait,4158,4,4579421,4933,Medium,Cruise,Business,27439114547
+257,Paris,France,27-11-2024,08-12-2024,11,Amy Mendoza,Other,Iran,6190,2,1142273,7657,Low,Bus,Family,27439114547
+258,Tokyo,Japan,12-06-2024,27-06-2024,15,Katherine Browning,Other,Barbados,8533,3,2069909,9941,Medium,Car,Business,25514217912
+259,Dubai,UAE,14-06-2025,24-06-2025,10,Lee Jones,Male,Falkland Islands (Malvinas),8134,2,7733275,9765,High,Car,Couple,26336822876
+260,Cape Town,South Africa,12-11-2024,30-11-2024,18,Kimberly Nguyen,Other,Nauru,3878,2,1473555,5054,Medium,Cruise,Family,28898545230
+261,New York,USA,01-09-2024,22-09-2024,21,Jonathan Jordan,Male,South Africa,1311,5,8580665,1825,High,Cruise,Group,25136471294
+262,Tokyo,Japan,12-01-2025,25-01-2025,13,Matthew Rich,Other,Mexico,7539,1,3546065,9107,High,Bus,Solo,25514217912
+263,Cape Town,South Africa,26-01-2025,12-02-2025,17,Jessica Beasley,Male,Isle of Man,7729,2,8710869,8679,Medium,Cruise,Solo,28898545230
+264,Cape Town,South Africa,05-04-2024,22-04-2024,17,Jennifer Blair,Other,Germany,5349,1,6742917,5970,Low,Train,Business,28898545230
+265,New York,USA,12-06-2024,16-06-2024,4,David Mckay,Female,Poland,5944,1,9179216,6167,Low,Bus,Solo,25136471294
+266,London,UK,02-07-2025,18-07-2025,16,Brandon Miller,Male,Jersey,2518,4,6382411,4443,Medium,Bus,Couple,27521149477
+267,Rome,Italy,30-09-2023,05-10-2023,5,Jacqueline Anderson,Other,Bahamas,9135,2,5934610,9477,Low,Cruise,Couple,26664516195
+268,Cape Town,South Africa,14-10-2024,21-10-2024,7,Kristina Santiago,Other,Isle of Man,3948,1,481435,4659,Medium,Cruise,Couple,28898545230
+269,Cape Town,South Africa,16-04-2024,01-05-2024,15,Teresa Henderson,Male,United States Virgin Islands,4355,4,5907596,4772,Medium,Train,Solo,28898545230
+270,Paris,France,27-01-2025,24-02-2025,28,Dwayne Edwards,Other,Bosnia and Herzegovina,7168,5,362492,7760,Low,Air,Solo,27439114547
+271,Barcelona,Spain,07-10-2024,11-10-2024,4,Brittney Olson,Female,Tanzania,1097,2,842169,2020,Medium,Train,Business,25858011842
+272,Dubai,UAE,09-10-2023,05-11-2023,27,Justin Wilson,Male,Fiji,2595,5,4953035,3174,High,Cruise,Family,26336822876
+273,Barcelona,Spain,04-10-2024,26-10-2024,22,Jeffrey Hoffman,Other,Seychelles,5553,2,5162767,7447,Low,Cruise,Group,25858011842
+274,Rome,Italy,12-04-2025,24-04-2025,12,Megan Hawkins,Female,Netherlands,1298,5,3038247,2680,High,Bus,Business,26664516195
+275,Sydney,Australia,07-07-2025,11-07-2025,4,Melissa Johnson,Female,Faroe Islands,6544,5,5447476,8070,Medium,Bus,Group,29339201955
+276,London,UK,12-01-2025,27-01-2025,15,Tammy Bell,Male,Cocos (Keeling) Islands,9113,4,4142775,10952,Low,Car,Group,27521149477
+277,Sydney,Australia,22-05-2025,26-05-2025,4,Matthew Jones,Other,Saint Vincent and the Grenadines,7061,4,9449720,8246,Low,Bus,Group,29339201955
+278,London,UK,19-11-2024,28-11-2024,9,Anna Moreno,Female,Honduras,1595,4,6325647,1884,High,Train,Solo,27521149477
+279,London,UK,07-06-2024,22-06-2024,15,Christopher Collins,Other,Greece,947,1,3256856,2694,High,Cruise,Group,27521149477
+280,Sydney,Australia,11-03-2025,20-03-2025,9,Linda Ware,Female,Cape Verde,5267,1,3653544,5756,High,Air,Couple,29339201955
+281,Dubai,UAE,16-11-2023,11-12-2023,25,Amber Miller,Other,Kenya,3650,4,4115307,4880,Medium,Car,Couple,26336822876
+282,Sydney,Australia,12-12-2024,01-01-2025,20,Lawrence Perry,Other,Cuba,6186,3,4488275,7022,High,Bus,Couple,29339201955
+283,New York,USA,22-02-2025,22-03-2025,28,Haley Rodriguez,Other,Philippines,7992,3,3507913,8851,Medium,Bus,Solo,25136471294
+284,Barcelona,Spain,24-12-2024,23-01-2025,30,Kelsey Parker,Male,Cyprus,2690,1,4475063,3923,High,Cruise,Couple,25858011842
+285,London,UK,19-05-2024,26-05-2024,7,Mrs. Christine Dougherty,Male,Seychelles,5704,2,6472653,6970,Low,Bus,Business,27521149477
+286,Bangkok,Thailand,31-10-2023,11-11-2023,11,Donna Wilson,Female,Luxembourg,8337,4,2922492,9937,Medium,Train,Group,28843595717
+287,Cape Town,South Africa,16-02-2025,06-03-2025,18,Carl Patel,Male,Denmark,9182,1,8890328,9351,Low,Air,Solo,28898545230
+288,Rome,Italy,08-08-2024,15-08-2024,7,Mary Gomez,Other,Indonesia,4091,1,2633857,4209,Low,Cruise,Couple,26664516195
+289,Bangkok,Thailand,16-05-2025,20-05-2025,4,Jessica Stevens,Other,Belarus,8216,4,363935,8329,High,Cruise,Couple,28843595717
+290,Paris,France,16-05-2025,19-05-2025,3,Jeffrey Sullivan,Other,Northern Mariana Islands,4801,5,4909835,4936,High,Bus,Group,27439114547
+291,New York,USA,05-06-2024,11-06-2024,6,Jared Burch,Other,Chile,2739,2,3320085,4108,High,Car,Family,25136471294
+292,London,UK,30-03-2025,27-04-2025,28,Julia Norris,Female,Guyana,1594,3,6912009,2634,High,Train,Group,27521149477
+293,London,UK,23-09-2023,17-10-2023,24,Brian Graham,Male,Iran,819,1,6899441,1695,Medium,Cruise,Couple,27521149477
+294,Paris,France,26-08-2024,18-09-2024,23,Seth Reese,Male,Cyprus,3107,1,8486232,4938,Medium,Car,Business,27439114547
+295,New York,USA,31-03-2024,19-04-2024,19,Angela Schultz,Male,Malta,4064,2,9609060,5137,Medium,Air,Solo,25136471294
+296,London,UK,16-08-2024,05-09-2024,20,Ricardo Bell,Other,Svalbard & Jan Mayen Islands,839,2,5376177,971,Low,Cruise,Group,27521149477
+297,Rome,Italy,29-11-2024,04-12-2024,5,Cynthia Thomas,Female,Congo,2961,5,4134453,4221,Medium,Cruise,Family,26664516195
+298,Rome,Italy,28-11-2023,25-12-2023,27,Paige Rios,Other,Christmas Island,2592,1,8501909,4218,Medium,Air,Solo,26664516195
+299,Rome,Italy,08-03-2025,18-03-2025,10,Julie Elliott,Male,Morocco,5880,5,6755572,7564,Medium,Air,Family,26664516195
+300,Sydney,Australia,29-06-2024,17-07-2024,18,Sonia Day,Male,Niger,6129,5,6398619,7113,Low,Cruise,Couple,29339201955
+301,New York,USA,24-03-2024,20-04-2024,27,Lori Hernandez,Other,Bangladesh,5139,2,1333237,5407,Medium,Train,Couple,25136471294
+302,Tokyo,Japan,15-07-2024,10-08-2024,26,Eric Hill,Female,Azerbaijan,5488,3,1887627,5775,Low,Car,Couple,25514217912
+303,Bangkok,Thailand,15-04-2024,12-05-2024,27,Emily Hayes,Female,Azerbaijan,1974,2,1564604,2457,Medium,Bus,Business,28843595717
+304,Cape Town,South Africa,28-04-2024,17-05-2024,19,Angela Lin,Female,Timor-Leste,1992,1,1603554,2816,High,Air,Business,28898545230
+305,Barcelona,Spain,25-09-2023,23-10-2023,28,Katie Ford,Female,Mexico,6611,1,4996386,7558,Medium,Air,Business,25858011842
+306,Dubai,UAE,23-03-2025,13-04-2025,21,Amanda Stout,Other,Montenegro,3078,4,2943767,3462,Medium,Car,Family,26336822876
+307,Sydney,Australia,04-12-2024,11-12-2024,7,Larry Mason,Male,Bahamas,3039,4,4729871,4001,Medium,Bus,Solo,29339201955
+308,Bangkok,Thailand,30-06-2024,11-07-2024,11,Steven Cooper,Male,Rwanda,8423,5,3380754,9460,Low,Train,Family,28843595717
+309,Paris,France,20-09-2023,05-10-2023,15,Carrie Wright,Female,Kazakhstan,6524,3,7485715,7309,Medium,Cruise,Group,27439114547
+310,London,UK,22-06-2024,05-07-2024,13,Lisa Cox,Other,United States Virgin Islands,3590,4,5371120,4053,Medium,Car,Family,27521149477
+311,Sydney,Australia,21-02-2024,13-03-2024,21,Raymond Shelton,Male,Austria,5639,4,4802656,7411,Medium,Car,Solo,29339201955
+312,Barcelona,Spain,21-03-2025,30-03-2025,9,Felicia Rivera,Other,Micronesia,9239,2,9329132,9394,High,Bus,Group,25858011842
+313,Sydney,Australia,24-12-2024,21-01-2025,28,David York,Female,United States of America,1433,4,8476917,1818,High,Car,Group,29339201955
+314,London,UK,27-10-2024,20-11-2024,24,Felicia Aguilar,Male,Cambodia,7232,4,1340929,8251,High,Bus,Business,27521149477
+315,Rome,Italy,28-06-2025,18-07-2025,20,Walter Hale,Other,India,7153,5,716817,8872,Medium,Cruise,Business,26664516195
+316,New York,USA,25-10-2023,31-10-2023,6,Teresa Collins,Male,Honduras,6116,2,843175,7369,High,Bus,Family,25136471294
+317,Rome,Italy,27-11-2024,03-12-2024,6,Robin Santiago,Male,Switzerland,1915,3,3824560,3060,High,Cruise,Business,26664516195
+318,Barcelona,Spain,09-02-2025,06-03-2025,25,Susan Davis DDS,Other,Madagascar,3921,4,6376684,4822,Medium,Cruise,Business,25858011842
+319,Tokyo,Japan,23-04-2024,07-05-2024,14,Eric Bean,Male,Guam,8209,1,5056530,9160,Low,Air,Group,25514217912
+320,Bangkok,Thailand,03-03-2025,15-03-2025,12,Mr. Chad Jones,Female,Tanzania,7760,2,8842856,8849,Medium,Bus,Solo,28843595717
+321,Sydney,Australia,20-03-2025,15-04-2025,26,Randy Conley,Other,Turks and Caicos Islands,7712,3,1226998,8426,Low,Air,Solo,29339201955
+322,Bangkok,Thailand,28-08-2024,20-09-2024,23,George Miranda,Male,Bulgaria,2992,2,8756941,3449,High,Train,Family,28843595717
+323,Cape Town,South Africa,22-10-2024,07-11-2024,16,Christopher Guerra,Female,Sierra Leone,4098,4,3194587,4579,High,Bus,Couple,28898545230
+324,Paris,France,13-11-2024,09-12-2024,26,Carol Kim,Other,Isle of Man,3532,4,7306700,4428,Low,Train,Group,27439114547
+325,London,UK,24-04-2024,21-05-2024,27,Cynthia Wallace,Other,Finland,1325,5,1807116,3062,High,Train,Family,27521149477
+326,Bangkok,Thailand,20-02-2025,01-03-2025,9,Joann Ferguson,Female,Georgia,2167,3,8312178,3347,High,Car,Business,28843595717
+327,Rome,Italy,05-04-2025,27-04-2025,22,Stephanie Lee,Female,Philippines,9917,1,5937206,10737,Medium,Cruise,Group,26664516195
+328,London,UK,02-10-2024,24-10-2024,22,Mrs. Diane Reyes,Other,Malta,1688,2,5354384,2029,Low,Car,Solo,27521149477
+329,Tokyo,Japan,06-06-2024,20-06-2024,14,Ruth Solis,Other,Burundi,2616,5,6617332,3572,High,Train,Business,25514217912
+330,Rome,Italy,25-05-2025,10-06-2025,16,Martin Sawyer,Male,Mexico,8273,5,3006397,9509,Low,Bus,Family,26664516195
+331,Tokyo,Japan,11-07-2025,19-07-2025,8,Ryan Rosales,Female,Finland,7689,5,999447,9561,Medium,Air,Couple,25514217912
+332,Tokyo,Japan,20-09-2023,29-09-2023,9,Denise Whitehead,Female,Cameroon,9500,5,8404216,10437,High,Bus,Couple,25514217912
+333,Sydney,Australia,22-04-2025,10-05-2025,18,Travis Walker,Male,Korea,1654,5,617756,3383,Low,Car,Solo,29339201955
+334,London,UK,03-06-2025,13-06-2025,10,Alexander Brown,Other,Macao,5029,2,7772579,6287,High,Bus,Business,27521149477
+335,Cape Town,South Africa,02-05-2024,08-05-2024,6,Zachary Brooks,Other,Antarctica (the territory South of 60 deg S),2171,3,9211809,3957,Medium,Cruise,Solo,28898545230
+336,Sydney,Australia,20-03-2024,09-04-2024,20,Sara Santos,Male,Somalia,7265,1,4252891,7974,Low,Bus,Family,29339201955
+337,Bangkok,Thailand,07-11-2023,07-12-2023,30,Dustin Gallegos,Male,Qatar,7493,1,4075295,8022,High,Cruise,Family,28843595717
+338,Barcelona,Spain,22-04-2025,15-05-2025,23,Michael West,Female,Albania,3019,5,2435975,4726,Low,Train,Solo,25858011842
+339,Barcelona,Spain,19-06-2025,03-07-2025,14,David Conley,Other,Mayotte,4905,5,9139036,5349,Medium,Car,Family,25858011842
+340,Barcelona,Spain,16-07-2025,27-07-2025,11,Kelsey Rodriguez,Other,France,1860,2,7005438,3841,Low,Car,Group,25858011842
+341,Tokyo,Japan,17-01-2024,27-01-2024,10,Anthony Barnes,Male,South Africa,5577,2,6688425,6679,Low,Cruise,Family,25514217912
+342,Rome,Italy,11-11-2024,26-11-2024,15,Brian Stein,Female,Nauru,1537,1,6858714,2692,High,Car,Family,26664516195
+343,Sydney,Australia,05-09-2024,23-09-2024,18,Jose Allen,Female,Cambodia,9834,1,1662657,11430,Medium,Car,Solo,29339201955
+344,Cape Town,South Africa,28-02-2024,14-03-2024,15,Lucas Allen,Male,Israel,7339,2,8399939,7988,Medium,Car,Family,28898545230
+345,Cape Town,South Africa,09-12-2023,30-12-2023,21,Angela Villegas,Male,Bangladesh,9575,4,5866993,11506,High,Air,Solo,28898545230
+346,New York,USA,28-08-2024,20-09-2024,23,Rachel Romero,Female,Angola,566,1,2750523,1569,Medium,Air,Couple,25136471294
+347,Dubai,UAE,15-05-2024,09-06-2024,25,Amanda Hughes,Male,Holy See (Vatican City State),5245,2,4697283,5536,High,Car,Family,26336822876
+348,New York,USA,30-01-2024,13-02-2024,14,Heather Jones,Other,Dominican Republic,3011,1,6749508,4392,Medium,Train,Couple,25136471294
+349,New York,USA,05-02-2025,02-03-2025,25,Ashley Perkins,Male,Saudi Arabia,317,2,8099489,576,Low,Cruise,Group,25136471294
+350,Cape Town,South Africa,31-03-2024,24-04-2024,24,Harold Morgan,Female,Norway,452,1,5864217,2225,Low,Bus,Group,28898545230
+351,Sydney,Australia,29-11-2023,04-12-2023,5,Melinda Pollard,Male,Lesotho,6576,1,1818442,6887,Medium,Car,Family,29339201955
+352,Tokyo,Japan,18-11-2024,03-12-2024,15,Chad Baldwin,Male,Western Sahara,2640,1,9000451,3893,Low,Cruise,Group,25514217912
+353,Sydney,Australia,06-07-2024,20-07-2024,14,Dakota Moody,Other,Turks and Caicos Islands,3790,2,7007345,5151,High,Bus,Group,29339201955
+354,New York,USA,18-08-2023,24-08-2023,6,Eric Sanders,Male,Suriname,2317,5,6542986,3136,Medium,Car,Group,25136471294
+355,Dubai,UAE,10-09-2024,21-09-2024,11,Andrew Lucas,Other,France,1680,2,9384454,3010,High,Cruise,Family,26336822876
+356,Paris,France,19-04-2024,19-05-2024,30,Amber Rios,Other,Faroe Islands,5242,2,8786388,6584,High,Train,Couple,27439114547
+357,London,UK,21-10-2023,13-11-2023,23,Jessica Ross,Male,Kazakhstan,4221,4,6574085,4551,Low,Bus,Business,27521149477
+358,New York,USA,10-06-2025,29-06-2025,19,Gina Lopez,Male,Puerto Rico,6216,3,2314305,7108,High,Bus,Family,25136471294
+359,Cape Town,South Africa,06-08-2024,30-08-2024,24,Robert Adams,Male,Belize,8017,1,380001,9319,Low,Air,Family,28898545230
+360,Dubai,UAE,31-01-2025,04-02-2025,4,Jeffrey Carney,Male,Cocos (Keeling) Islands,6820,5,4906467,8207,High,Cruise,Couple,26336822876
+361,Rome,Italy,12-09-2024,07-10-2024,25,Brian Murphy,Female,French Polynesia,1650,5,9120360,3011,Low,Car,Solo,26664516195
+362,London,UK,11-03-2024,16-03-2024,5,Mitchell Jackson,Other,Kenya,3629,2,9099133,4398,Medium,Cruise,Solo,27521149477
+363,London,UK,15-04-2024,10-05-2024,25,Nicholas Buck,Female,New Zealand,4209,1,4201689,4485,Medium,Air,Couple,27521149477
+364,Barcelona,Spain,18-06-2024,10-07-2024,22,William Gould,Male,Belarus,5367,2,2103921,5492,High,Train,Solo,25858011842
+365,Tokyo,Japan,19-12-2024,06-01-2025,18,Heidi Owen,Female,Philippines,8868,5,4449442,9309,Medium,Train,Family,25514217912
+366,New York,USA,18-11-2023,15-12-2023,27,Brenda Lawson,Male,Slovenia,5788,4,4663077,6960,Low,Car,Business,25136471294
+367,New York,USA,21-06-2024,09-07-2024,18,Austin Osborne,Female,Haiti,8668,3,1030113,9791,High,Train,Family,25136471294
+368,Tokyo,Japan,23-04-2024,04-05-2024,11,Keith Jacobs,Male,Philippines,9702,1,3931990,11319,High,Air,Solo,25514217912
+369,Paris,France,30-06-2024,10-07-2024,10,Jacqueline Hines,Male,Montenegro,8029,3,6525329,10013,Low,Train,Solo,27439114547
+370,Cape Town,South Africa,31-10-2023,28-11-2023,28,Jennifer Banks,Other,Egypt,7170,2,5498941,7778,Medium,Car,Family,28898545230
+371,New York,USA,13-10-2023,03-11-2023,21,Cody Holmes,Female,United States Minor Outlying Islands,2256,5,983692,2723,Low,Cruise,Solo,25136471294
+372,Rome,Italy,25-09-2024,30-09-2024,5,Reginald Padilla,Female,Croatia,4925,3,5591198,5201,High,Bus,Solo,26664516195
+373,Bangkok,Thailand,03-11-2024,12-11-2024,9,Thomas Henry,Female,British Virgin Islands,9537,3,4169884,10587,Medium,Cruise,Couple,28843595717
+374,Dubai,UAE,30-10-2023,25-11-2023,26,Jodi Roach,Other,Kenya,4316,2,207003,5255,Low,Train,Business,26336822876
+375,Bangkok,Thailand,23-09-2023,16-10-2023,23,Tracy Downs,Other,Papua New Guinea,457,3,124528,2111,High,Bus,Family,28843595717
+376,New York,USA,11-04-2024,20-04-2024,9,Krista Roberts,Other,French Southern Territories,4202,4,8354874,4424,Low,Car,Solo,25136471294
+377,Paris,France,08-05-2025,18-05-2025,10,Michael Graves,Other,China,7067,3,7791649,8698,Low,Cruise,Solo,27439114547
+378,Cape Town,South Africa,24-03-2025,31-03-2025,7,Danny Galloway,Other,Somalia,6761,1,9626451,6988,Medium,Train,Group,28898545230
+379,London,UK,01-11-2023,12-11-2023,11,Johnny Ward,Female,Montenegro,6738,3,5436123,7765,Medium,Train,Solo,27521149477
+380,Dubai,UAE,28-04-2024,05-05-2024,7,William Anderson,Other,Turks and Caicos Islands,2085,2,1872642,2521,Medium,Bus,Family,26336822876
+381,Rome,Italy,21-09-2023,27-09-2023,6,James Love,Other,Lesotho,6170,2,7681910,6901,Medium,Car,Solo,26664516195
+382,New York,USA,28-08-2024,05-09-2024,8,Jason Andrews,Other,Brunei Darussalam,5284,5,776621,5824,Medium,Train,Solo,25136471294
+383,Dubai,UAE,19-03-2024,02-04-2024,14,Joanna Frazier,Female,Guatemala,8712,1,5113715,9344,Low,Air,Couple,26336822876
+384,Sydney,Australia,24-10-2023,13-11-2023,20,Penny Bowman,Other,Cocos (Keeling) Islands,9313,2,1689226,10359,Low,Train,Solo,29339201955
+385,Paris,France,04-03-2025,08-03-2025,4,Jessica Bartlett,Male,Azerbaijan,2441,2,6820647,3303,High,Air,Business,27439114547
+386,Barcelona,Spain,22-04-2025,03-05-2025,11,Christian Martin,Male,Gibraltar,657,1,3417700,2605,High,Bus,Group,25858011842
+387,New York,USA,12-07-2025,11-08-2025,30,Hannah Everett,Female,Ukraine,2307,1,7834211,2510,Low,Cruise,Couple,25136471294
+388,Rome,Italy,22-02-2024,11-03-2024,18,Danielle Reid,Male,Mexico,6570,4,2999223,7394,Low,Train,Family,26664516195
+389,London,UK,15-02-2024,03-03-2024,17,Eric Ferguson,Male,Macao,867,5,4223584,2292,Medium,Bus,Couple,27521149477
+390,Cape Town,South Africa,25-11-2024,13-12-2024,18,Todd Moore,Male,Palestinian Territory,1737,3,6525930,2118,Medium,Train,Business,28898545230
+391,Dubai,UAE,13-11-2024,06-12-2024,23,Lisa Kirby,Other,Monaco,619,4,6124901,1701,High,Bus,Family,26336822876
+392,Barcelona,Spain,17-08-2023,05-09-2023,19,Alyssa Williams,Female,Norway,6663,3,3116809,6816,Medium,Cruise,Group,25858011842
+393,Paris,France,06-03-2025,03-04-2025,28,Marilyn Wang,Female,Israel,1259,4,8982399,2091,High,Train,Group,27439114547
+394,New York,USA,08-11-2024,18-11-2024,10,Kathleen Burton,Other,French Guiana,4251,3,9053825,6022,High,Air,Group,25136471294
+395,Barcelona,Spain,26-11-2024,26-12-2024,30,Karen Ballard,Female,Poland,6113,2,3054473,6697,High,Car,Family,25858011842
+396,Barcelona,Spain,27-05-2024,30-05-2024,3,Benjamin Brown,Other,Kazakhstan,6061,5,9555747,6452,High,Train,Couple,25858011842
+397,Cape Town,South Africa,03-06-2024,15-06-2024,12,Mr. Lawrence Edwards,Male,Saint Barthelemy,8335,1,1614267,8550,Low,Cruise,Group,28898545230
+398,Paris,France,21-03-2024,09-04-2024,19,Shannon Hester,Female,Bulgaria,311,3,3480011,2062,Low,Car,Group,27439114547
+399,Bangkok,Thailand,26-02-2025,02-03-2025,4,Justin Flores,Male,Lao People's Democratic Republic,2720,5,2476537,4405,Low,Cruise,Family,28843595717
+400,New York,USA,20-10-2023,03-11-2023,14,David Davis,Other,French Guiana,6781,5,1795038,7570,Medium,Car,Group,25136471294
+401,Tokyo,Japan,10-05-2024,05-06-2024,26,Jennifer Estes,Female,United Arab Emirates,8282,3,3022635,9830,High,Cruise,Family,25514217912
+402,Dubai,UAE,18-11-2023,12-12-2023,24,Taylor Griffith,Other,Comoros,3172,4,5247639,4775,High,Car,Group,26336822876
+403,Tokyo,Japan,28-02-2025,26-03-2025,26,Zachary Owens,Male,Turkmenistan,9685,4,9620780,9851,Low,Cruise,Family,25514217912
+404,Barcelona,Spain,12-03-2024,22-03-2024,10,Brandon Long MD,Other,Dominican Republic,9565,1,8424603,9953,Medium,Air,Group,25858011842
+405,Bangkok,Thailand,31-12-2023,13-01-2024,13,Amber Campbell,Male,Nauru,1753,3,7593206,1876,Medium,Train,Group,28843595717
+406,New York,USA,01-06-2025,15-06-2025,14,Megan Mitchell,Female,Algeria,2070,1,907780,2960,Medium,Bus,Group,25136471294
+407,Rome,Italy,05-05-2025,23-05-2025,18,Cesar Baker,Female,Haiti,6054,5,6397287,6361,Medium,Cruise,Group,26664516195
+408,Tokyo,Japan,01-03-2025,18-03-2025,17,Andrew Williams,Male,Moldova,847,3,436852,1599,Medium,Air,Solo,25514217912
+409,Bangkok,Thailand,15-12-2023,23-12-2023,8,Dylan Hughes,Female,Korea,2936,1,9277913,4875,Low,Car,Business,28843595717
+410,Barcelona,Spain,01-03-2025,19-03-2025,18,Samantha Hanson,Other,New Caledonia,807,4,2868193,2150,Medium,Train,Solo,25858011842
+411,New York,USA,17-10-2023,30-10-2023,13,Brent Brooks,Male,Guadeloupe,3412,4,9396463,4990,High,Cruise,Family,25136471294
+412,London,UK,22-09-2024,04-10-2024,12,Nicole Gonzalez,Male,Madagascar,1871,1,6691805,3141,High,Bus,Group,27521149477
+413,Paris,France,23-05-2024,06-06-2024,14,Amber Taylor,Male,Grenada,7305,1,5041719,9092,High,Cruise,Couple,27439114547
+414,Dubai,UAE,01-04-2025,07-04-2025,6,Jesus Obrien,Male,Malawi,3690,2,4995783,3957,Medium,Air,Family,26336822876
+415,Rome,Italy,02-11-2023,20-11-2023,18,Louis Martin,Female,New Zealand,4641,1,9228919,5534,Low,Car,Couple,26664516195
+416,Bangkok,Thailand,10-02-2025,18-02-2025,8,Linda Romero,Female,Madagascar,1031,3,7477620,2083,Medium,Train,Family,28843595717
+417,Barcelona,Spain,02-09-2024,06-09-2024,4,Justin Wells Jr.,Male,Greenland,1884,1,5867862,3639,High,Bus,Business,25858011842
+418,Dubai,UAE,21-12-2024,10-01-2025,20,Jason Parker,Male,United Arab Emirates,6642,5,7123480,7838,High,Bus,Business,26336822876
+419,Dubai,UAE,30-01-2025,17-02-2025,18,Lori Carlson,Female,Estonia,1593,4,682647,2721,High,Cruise,Business,26336822876
+420,Barcelona,Spain,07-12-2024,14-12-2024,7,Paula Lane,Male,Saint Helena,7657,2,2904559,8190,Low,Train,Solo,25858011842
+421,Rome,Italy,25-08-2023,30-08-2023,5,Carolyn Fuller,Other,Nicaragua,7433,2,2580985,9241,High,Car,Family,26664516195
+422,New York,USA,09-03-2025,14-03-2025,5,Brittany Becker,Female,Antigua and Barbuda,9415,4,9361932,10182,Medium,Cruise,Couple,25136471294
+423,Paris,France,03-10-2024,31-10-2024,28,Ashley Smith,Other,Germany,9926,5,7139616,10256,Medium,Train,Group,27439114547
+424,Barcelona,Spain,06-06-2024,27-06-2024,21,Michael Jenkins,Other,Singapore,1941,1,9540266,3637,Low,Car,Business,25858011842
+425,Bangkok,Thailand,02-11-2024,18-11-2024,16,Shelley Fitzgerald,Female,Bahamas,6575,4,9696957,7922,Medium,Air,Group,28843595717
+426,London,UK,15-01-2025,30-01-2025,15,Daniel Nguyen,Male,Panama,6881,1,6740300,8802,Medium,Train,Solo,27521149477
+427,Sydney,Australia,22-07-2024,02-08-2024,11,Emily Thompson,Female,United States Minor Outlying Islands,631,3,5184418,1367,Medium,Bus,Solo,29339201955
+428,Dubai,UAE,03-09-2024,10-09-2024,7,Hector Ingram,Female,Saint Helena,7559,3,4620117,9151,Medium,Cruise,Solo,26336822876
+429,Dubai,UAE,26-12-2024,12-01-2025,17,Melissa Bishop,Male,Congo,6971,4,8765455,8847,Medium,Air,Business,26336822876
+430,Tokyo,Japan,24-01-2024,29-01-2024,5,Edwin David,Female,French Southern Territories,8603,4,2375826,10301,High,Cruise,Solo,25514217912
+431,Tokyo,Japan,06-03-2025,15-03-2025,9,Daniel Bush,Male,Ghana,1244,2,654840,2278,Low,Car,Group,25514217912
+432,London,UK,23-07-2024,06-08-2024,14,Timothy Pope,Female,Falkland Islands (Malvinas),8575,4,2178241,10070,Low,Train,Family,27521149477
+433,Sydney,Australia,25-02-2024,18-03-2024,22,Michael James,Female,Indonesia,3209,4,9946216,4438,Medium,Car,Group,29339201955
+434,London,UK,12-04-2025,08-05-2025,26,Raymond Thomas,Other,Armenia,1780,3,560542,2671,Low,Train,Business,27521149477
+435,Dubai,UAE,25-02-2024,26-03-2024,30,Angela Bradshaw,Male,Palau,3988,2,4614473,5422,Medium,Cruise,Solo,26336822876
+436,Paris,France,01-02-2024,19-02-2024,18,Cindy Clayton,Male,Faroe Islands,3137,5,241997,3695,Medium,Cruise,Family,27439114547
+437,London,UK,10-07-2025,26-07-2025,16,Denise Rodriguez,Female,Saint Vincent and the Grenadines,6013,4,4327836,6559,Medium,Car,Business,27521149477
+438,Barcelona,Spain,14-10-2024,29-10-2024,15,Anthony Stein,Other,Czech Republic,1976,1,8681776,3432,Medium,Cruise,Business,25858011842
+439,Barcelona,Spain,23-11-2024,05-12-2024,12,Brett Rivera,Female,Latvia,2071,4,1171008,2859,Medium,Car,Family,25858011842
+440,London,UK,03-10-2023,26-10-2023,23,Brenda Oconnell,Other,Vanuatu,5195,2,2615396,6354,Low,Air,Business,27521149477
+441,Rome,Italy,16-11-2023,10-12-2023,24,Timothy Johns,Female,Lesotho,2592,1,8444531,3297,Medium,Bus,Couple,26664516195
+442,Rome,Italy,03-12-2024,29-12-2024,26,Victor Morris,Male,Oman,9852,5,3286247,10654,High,Train,Business,26664516195
+443,Sydney,Australia,31-08-2023,24-09-2023,24,Ann Andrews,Female,Marshall Islands,8611,3,2951902,10432,High,Cruise,Group,29339201955
+444,London,UK,09-02-2025,15-02-2025,6,Taylor Gentry,Female,China,2396,3,9478994,4058,Low,Car,Solo,27521149477
+445,Dubai,UAE,05-06-2024,19-06-2024,14,Casey Gillespie,Male,Taiwan,5331,4,5658579,6192,Medium,Cruise,Family,26336822876
+446,Sydney,Australia,20-05-2024,19-06-2024,30,Charlotte Curry,Male,Tunisia,8009,1,9890757,9297,High,Air,Couple,29339201955
+447,Dubai,UAE,05-07-2025,24-07-2025,19,Andrew Evans,Male,Netherlands Antilles,6553,5,5105578,7499,Low,Train,Group,26336822876
+448,Dubai,UAE,08-10-2023,21-10-2023,13,Frances Gibson,Female,Norway,9629,4,2502902,10376,High,Train,Solo,26336822876
+449,Sydney,Australia,10-09-2024,23-09-2024,13,Stacy Anderson,Other,Macedonia,3197,3,1073306,3306,Medium,Car,Group,29339201955
+450,Tokyo,Japan,14-07-2024,04-08-2024,21,Robert Rivera,Male,Saint Martin,8321,1,2271071,9679,Medium,Bus,Couple,25514217912
+451,Rome,Italy,07-07-2024,25-07-2024,18,Michelle Smith,Female,Guadeloupe,376,1,9055386,884,High,Car,Solo,26664516195
+452,Bangkok,Thailand,22-03-2025,18-04-2025,27,Michael Lee,Other,New Caledonia,3422,1,169186,4805,High,Train,Group,28843595717
+453,Bangkok,Thailand,11-05-2025,23-05-2025,12,Jennifer Patterson,Male,Greece,1982,4,8544584,3287,Medium,Train,Solo,28843595717
+454,Paris,France,22-09-2023,04-10-2023,12,Brandon Holden,Female,Lesotho,7769,5,8893234,8560,Medium,Train,Family,27439114547
+455,Sydney,Australia,24-03-2024,07-04-2024,14,Adriana Reyes,Male,Kiribati,3001,4,420859,3568,Low,Train,Group,29339201955
+456,Paris,France,21-02-2025,14-03-2025,21,Gary Aguilar,Other,Montenegro,3068,1,6250383,4624,High,Air,Couple,27439114547
+457,London,UK,25-07-2023,21-08-2023,27,Ian Young,Other,Papua New Guinea,1096,5,904641,2551,Low,Air,Solo,27521149477
+458,New York,USA,16-10-2023,01-11-2023,16,Christopher Parks,Female,Uzbekistan,6530,1,9281874,7147,Medium,Train,Group,25136471294
+459,Paris,France,11-06-2025,23-06-2025,12,Patricia Vaughn,Female,Northern Mariana Islands,1954,5,4629464,3329,High,Train,Couple,27439114547
+460,New York,USA,27-06-2025,16-07-2025,19,Holly Walker,Other,Burkina Faso,2228,3,2012813,3935,Low,Bus,Group,25136471294
+461,Barcelona,Spain,22-07-2024,31-07-2024,9,Paul Obrien,Female,Israel,8871,2,6104931,10411,Medium,Car,Group,25858011842
+462,Paris,France,12-01-2025,01-02-2025,20,Kaitlin Medina,Female,Papua New Guinea,3702,4,5646608,4282,Low,Air,Solo,27439114547
+463,New York,USA,18-04-2025,17-05-2025,29,David Fischer,Other,Tunisia,8395,2,1611336,10091,High,Air,Solo,25136471294
+464,London,UK,19-03-2025,11-04-2025,23,Jeremy Padilla,Male,Belarus,7783,3,4531282,8833,Low,Air,Group,27521149477
+465,Paris,France,28-06-2025,28-07-2025,30,Amy Kelley,Female,Macedonia,6201,3,7247013,7813,Low,Air,Solo,27439114547
+466,Paris,France,21-12-2023,20-01-2024,30,Brittany Murphy,Male,Maldives,3093,3,6098314,5024,Medium,Cruise,Family,27439114547
+467,New York,USA,24-06-2024,08-07-2024,14,Daniel Aguilar,Female,Bermuda,3296,1,6823930,4215,Medium,Car,Couple,25136471294
+468,Sydney,Australia,14-06-2025,12-07-2025,28,Rhonda Chavez,Female,Malawi,3032,1,2323175,4557,High,Air,Group,29339201955
+469,New York,USA,03-06-2024,19-06-2024,16,Anthony Ford,Other,Sri Lanka,8208,5,7451152,8679,High,Bus,Family,25136471294
+470,Barcelona,Spain,12-03-2024,15-03-2024,3,Jennifer Velasquez,Other,Samoa,2440,4,8289341,2771,Medium,Bus,Solo,25858011842
+471,New York,USA,02-01-2024,13-01-2024,11,Amber Cooper,Other,Bahrain,5448,1,8904983,7119,High,Cruise,Business,25136471294
+472,Dubai,UAE,09-09-2024,03-10-2024,24,Taylor Jones DVM,Female,Antigua and Barbuda,8804,5,1697897,9790,High,Train,Couple,26336822876
+473,Bangkok,Thailand,24-02-2024,19-03-2024,24,Randy Cannon,Other,Saint Lucia,6605,2,9467461,8531,High,Air,Solo,28843595717
+474,Tokyo,Japan,29-11-2024,18-12-2024,19,Jacqueline Vance,Female,Kiribati,8423,2,1356030,10061,Medium,Car,Group,25514217912
+475,Bangkok,Thailand,22-05-2025,02-06-2025,11,Jamie Miller,Male,Panama,8605,2,9335783,10022,Medium,Bus,Group,28843595717
+476,New York,USA,26-05-2025,12-06-2025,17,Martha Bailey,Female,Christmas Island,9688,4,1576728,11542,Medium,Bus,Family,25136471294
+477,New York,USA,06-09-2024,24-09-2024,18,Cameron Irwin,Other,Syrian Arab Republic,591,1,6868594,1535,Low,Cruise,Business,25136471294
+478,Paris,France,19-07-2023,17-08-2023,29,Veronica Ford,Male,Saint Helena,5290,5,9534375,5813,High,Bus,Family,27439114547
+479,Bangkok,Thailand,11-09-2024,10-10-2024,29,James Hall,Male,Kuwait,3952,4,5669576,5199,High,Cruise,Couple,28843595717
+480,Bangkok,Thailand,10-04-2024,05-05-2024,25,Colin Golden,Female,Serbia,2168,1,3820299,2272,Medium,Car,Family,28843595717
+481,Cape Town,South Africa,12-10-2023,31-10-2023,19,Matthew Mendez,Female,Vietnam,2041,1,2854070,3149,Low,Bus,Solo,28898545230
+482,London,UK,02-06-2025,24-06-2025,22,Cynthia Jones,Male,Nauru,3372,1,6691709,3913,Medium,Train,Family,27521149477
+483,New York,USA,12-08-2023,08-09-2023,27,Michael Brennan,Female,Ecuador,1061,5,2167274,2742,Medium,Bus,Business,25136471294
+484,Cape Town,South Africa,11-02-2025,18-02-2025,7,Jeffrey Fernandez,Female,Saudi Arabia,371,5,914896,1604,Medium,Cruise,Couple,28898545230
+485,Cape Town,South Africa,17-05-2025,13-06-2025,27,Brenda Holder,Male,Djibouti,9779,2,2253888,10091,Medium,Cruise,Business,28898545230
+486,Bangkok,Thailand,10-04-2025,29-04-2025,19,Laura Ray,Female,Sierra Leone,7159,5,4264755,7819,Medium,Car,Family,28843595717
+487,Sydney,Australia,20-12-2024,17-01-2025,28,Cynthia Walter,Male,Panama,2563,4,8694877,3275,High,Cruise,Family,29339201955
+488,Cape Town,South Africa,24-08-2024,16-09-2024,23,Eric Brown,Male,Yemen,3591,2,4975114,5097,Medium,Train,Group,28898545230
+489,Cape Town,South Africa,18-10-2024,07-11-2024,20,Susan Garrett,Other,Japan,5581,1,6009569,6832,Medium,Cruise,Business,28898545230
+490,Rome,Italy,20-09-2024,14-10-2024,24,William David DDS,Other,Solomon Islands,9047,3,7186467,10802,Low,Cruise,Solo,26664516195
+491,Paris,France,27-08-2024,11-09-2024,15,Jason Hernandez,Male,Honduras,1169,1,3453806,1815,Low,Car,Family,27439114547
+492,Tokyo,Japan,06-12-2023,04-01-2024,29,Kara Atkinson,Male,French Southern Territories,5135,2,9179361,5301,Medium,Bus,Solo,25514217912
+493,Barcelona,Spain,13-05-2025,12-06-2025,30,Renee Melendez,Other,Moldova,9505,2,9516557,10401,Low,Cruise,Family,25858011842
+494,Paris,France,01-06-2024,16-06-2024,15,Kristin Anderson,Female,Ecuador,7125,3,9363113,7335,Low,Car,Group,27439114547
+495,Barcelona,Spain,31-01-2024,01-03-2024,30,Matthew Nielsen,Female,Tanzania,3995,3,9971467,5214,High,Cruise,Group,25858011842
+496,Dubai,UAE,30-04-2024,12-05-2024,12,Nathaniel Lee,Female,Ethiopia,3206,1,3236946,3661,High,Cruise,Solo,26336822876
+497,Rome,Italy,04-05-2024,08-05-2024,4,Lindsey Russo,Female,Comoros,4872,5,4533204,5238,Low,Cruise,Family,26664516195
+498,Paris,France,01-04-2025,14-04-2025,13,Misty Hansen,Female,Lesotho,2836,1,2678714,3596,High,Air,Business,27439114547
+499,London,UK,26-12-2023,13-01-2024,18,Felicia Krueger,Other,American Samoa,9313,3,1322736,11018,High,Car,Business,27521149477
+500,Dubai,UAE,28-12-2023,05-01-2024,8,Tonya Wilson,Other,Saudi Arabia,1417,5,2773793,2368,High,Cruise,Couple,26336822876
+501,New York,USA,22-07-2024,05-08-2024,14,Melissa Padilla,Male,Indonesia,3795,3,5654374,4633,Medium,Train,Business,25136471294
+502,Cape Town,South Africa,26-06-2025,14-07-2025,18,Frank Campbell,Other,Lao People's Democratic Republic,444,1,5905039,1456,Low,Cruise,Business,28898545230
+503,Dubai,UAE,03-09-2024,07-09-2024,4,Elizabeth Ward,Other,Turkmenistan,5558,4,2002100,6448,Medium,Cruise,Family,26336822876
+504,Paris,France,06-08-2024,25-08-2024,19,Robert Bowen,Female,Senegal,8726,5,7575204,9822,Low,Car,Group,27439114547
+505,Bangkok,Thailand,29-04-2025,18-05-2025,19,Dale Edwards,Male,Aruba,1872,2,9125719,3064,Low,Air,Group,28843595717
+506,Dubai,UAE,25-09-2024,25-10-2024,30,Natalie Smith,Other,Mexico,7250,1,3549052,8451,High,Bus,Solo,26336822876
+507,Tokyo,Japan,12-07-2025,15-07-2025,3,Michelle Phillips,Female,Congo,5734,1,1568357,5984,Low,Train,Family,25514217912
+508,Cape Town,South Africa,29-03-2024,03-04-2024,5,Kelly Sanchez,Other,Mayotte,4029,3,6938943,4923,Medium,Bus,Couple,28898545230
+509,Bangkok,Thailand,06-12-2024,09-12-2024,3,Gail Hines,Female,Liechtenstein,2238,5,198967,3651,High,Cruise,Solo,28843595717
+510,Barcelona,Spain,29-01-2025,02-02-2025,4,Katherine Jackson,Other,South Africa,1489,3,8536204,1806,Medium,Car,Business,25858011842
+511,New York,USA,15-04-2024,27-04-2024,12,Nathan Freeman,Female,United States Virgin Islands,6549,4,617059,7619,Low,Cruise,Group,25136471294
+512,Tokyo,Japan,06-06-2025,02-07-2025,26,Maria Brown,Female,Antigua and Barbuda,9241,3,2517186,9951,High,Car,Solo,25514217912
+513,Cape Town,South Africa,28-04-2025,28-05-2025,30,Theresa Barnett,Other,Serbia,2616,1,800837,2726,High,Cruise,Couple,28898545230
+514,Cape Town,South Africa,21-07-2023,10-08-2023,20,Ryan Hall,Male,Russian Federation,5292,2,5868873,5825,Medium,Cruise,Group,28898545230
+515,Tokyo,Japan,11-11-2023,19-11-2023,8,Jonathan Brooks,Male,Nicaragua,4440,2,2023047,4911,High,Cruise,Solo,25514217912
+516,Cape Town,South Africa,23-11-2024,10-12-2024,17,Lisa Webb,Other,Libyan Arab Jamahiriya,9305,1,4976342,10780,Low,Car,Solo,28898545230
+517,Dubai,UAE,29-07-2023,24-08-2023,26,Juan Smith,Other,Malta,8282,3,6091787,8644,High,Train,Solo,26336822876
+518,London,UK,27-01-2025,18-02-2025,22,William Smith,Male,Suriname,3470,3,8251398,4492,Medium,Cruise,Family,27521149477
+519,Barcelona,Spain,09-01-2025,16-01-2025,7,Renee Browning,Other,Botswana,9587,3,5407189,10564,Low,Air,Family,25858011842
+520,Dubai,UAE,29-06-2025,27-07-2025,28,Chase Lee,Male,Mali,7445,3,6131174,7820,High,Car,Couple,26336822876
+521,Sydney,Australia,29-01-2024,15-02-2024,17,Debra Sanders,Female,Holy See (Vatican City State),5304,4,9355517,5626,Low,Cruise,Solo,29339201955
+522,London,UK,27-05-2024,26-06-2024,30,David Terry,Male,French Southern Territories,9124,2,4516344,10726,High,Air,Solo,27521149477
+523,Paris,France,29-12-2024,28-01-2025,30,Angela Frey,Other,Pakistan,811,5,9812343,1740,High,Train,Solo,27439114547
+524,Cape Town,South Africa,25-02-2025,08-03-2025,11,Jared Bennett,Other,Lebanon,9142,4,2593647,9991,Medium,Train,Business,28898545230
+525,London,UK,29-08-2023,05-09-2023,7,Michele Miller,Female,Tanzania,8510,5,1619244,9422,Medium,Cruise,Solo,27521149477
+526,Dubai,UAE,18-06-2024,18-07-2024,30,Erin Madden,Other,Bhutan,3017,5,2455029,4030,Low,Train,Business,26336822876
+527,Barcelona,Spain,11-06-2025,05-07-2025,24,Amanda Lewis,Male,Trinidad and Tobago,8221,3,778132,8769,Medium,Train,Solo,25858011842
+528,London,UK,04-01-2025,18-01-2025,14,Karen Williams,Male,Belarus,1001,2,8788672,2960,Medium,Bus,Couple,27521149477
+529,Sydney,Australia,29-12-2024,02-01-2025,4,Stephanie Elliott,Male,Antigua and Barbuda,5609,1,8847185,7006,Medium,Car,Business,29339201955
+530,Cape Town,South Africa,03-12-2023,24-12-2023,21,Emily Ali,Male,Myanmar,6471,4,6228662,7774,High,Air,Business,28898545230
+531,London,UK,05-11-2023,20-11-2023,15,Michelle Sanders,Male,Belarus,8760,4,6020646,10533,Medium,Bus,Couple,27521149477
+532,Barcelona,Spain,05-03-2024,08-03-2024,3,David Davenport,Other,Iceland,2576,4,2878404,3147,Low,Cruise,Family,25858011842
+533,Dubai,UAE,23-12-2024,30-12-2024,7,Evelyn Campos,Male,Burundi,2878,3,2085251,4331,Low,Bus,Family,26336822876
+534,New York,USA,21-03-2025,08-04-2025,18,Misty Mason DVM,Other,Austria,8144,4,3635025,9453,Low,Bus,Solo,25136471294
+535,Dubai,UAE,30-09-2023,04-10-2023,4,Ryan Peterson,Male,Seychelles,9696,5,2803298,10071,High,Cruise,Solo,26336822876
+536,Barcelona,Spain,04-11-2024,11-11-2024,7,Jennifer Ayala,Male,Antarctica (the territory South of 60 deg S),3025,3,3120528,4183,Medium,Cruise,Business,25858011842
+537,Paris,France,20-11-2024,16-12-2024,26,Willie Henry,Other,Guinea-Bissau,4944,1,3733834,5963,High,Bus,Couple,27439114547
+538,Tokyo,Japan,18-09-2024,28-09-2024,10,Jessica Frazier,Female,Panama,2638,5,3151509,4014,High,Cruise,Family,25514217912
+539,Tokyo,Japan,07-05-2024,02-06-2024,26,Luke Yates,Other,Rwanda,5914,4,1254992,6484,Medium,Bus,Group,25514217912
+540,New York,USA,12-09-2023,15-09-2023,3,Christian Dawson,Male,Norfolk Island,8864,5,7142991,10656,Low,Cruise,Solo,25136471294
+541,Tokyo,Japan,13-11-2023,01-12-2023,18,Emily Rodriguez,Other,Albania,939,5,8544462,2579,Low,Air,Couple,25514217912
+542,Tokyo,Japan,12-03-2024,03-04-2024,22,Philip Garcia,Other,Benin,319,4,8858448,1280,Medium,Air,Business,25514217912
+543,Rome,Italy,09-12-2023,19-12-2023,10,Justin Hunt,Female,Bosnia and Herzegovina,6546,3,9982586,8293,High,Cruise,Solo,26664516195
+544,Rome,Italy,06-08-2023,13-08-2023,7,Julian Carlson,Female,Slovenia,8117,2,1506225,8797,High,Cruise,Couple,26664516195
+545,London,UK,24-03-2024,02-04-2024,9,Alexandria Gutierrez,Male,Slovakia (Slovak Republic),416,5,8866777,757,High,Air,Couple,27521149477
+546,Dubai,UAE,20-09-2023,15-10-2023,25,Kristin Haney,Female,Ecuador,6998,3,1888169,7414,Medium,Cruise,Family,26336822876
+547,London,UK,03-10-2024,02-11-2024,30,Melissa Jackson,Other,Ethiopia,7239,5,6234489,8592,Medium,Bus,Group,27521149477
+548,Rome,Italy,06-03-2024,26-03-2024,20,Charles Jackson,Other,Falkland Islands (Malvinas),8204,2,6311142,9449,High,Bus,Family,26664516195
+549,London,UK,08-06-2024,29-06-2024,21,Richard Ward,Female,Western Sahara,6822,2,2097927,8453,Low,Bus,Group,27521149477
+550,New York,USA,24-01-2024,02-02-2024,9,Kathleen Jensen,Other,Kuwait,6862,3,9337136,8219,High,Air,Group,25136471294
+551,Rome,Italy,08-10-2023,31-10-2023,23,Adam Foster,Male,Tajikistan,1792,2,8013286,3788,High,Bus,Solo,26664516195
+552,New York,USA,09-11-2024,20-11-2024,11,Scott Alexander,Male,Jersey,6375,1,733429,7958,Medium,Bus,Business,25136471294
+553,Cape Town,South Africa,10-04-2025,22-04-2025,12,Marilyn Wheeler,Other,French Southern Territories,1241,2,8394125,2240,Low,Train,Business,28898545230
+554,London,UK,22-03-2024,31-03-2024,9,Melissa Mendoza,Male,Christmas Island,8664,5,3986793,10023,Low,Air,Family,27521149477
+555,Dubai,UAE,21-05-2024,13-06-2024,23,Doris Neal,Male,Liechtenstein,2879,1,4729452,4575,Medium,Car,Couple,26336822876
+556,Rome,Italy,06-10-2024,27-10-2024,21,Erika Ramirez,Male,Solomon Islands,8782,1,1251205,10764,Low,Cruise,Family,26664516195
+557,Cape Town,South Africa,17-05-2024,07-06-2024,21,Timothy Gonzalez,Female,Mauritius,5993,3,3896608,7334,Low,Bus,Couple,28898545230
+558,Barcelona,Spain,03-12-2023,06-12-2023,3,Krista Benton,Female,Kyrgyz Republic,3167,4,8593265,3485,High,Air,Business,25858011842
+559,London,UK,17-01-2025,30-01-2025,13,Robert Guerra,Male,Bangladesh,8709,3,9124521,10474,High,Car,Couple,27521149477
+560,Rome,Italy,13-04-2025,04-05-2025,21,Rebecca Chambers,Female,Burundi,4285,3,7798199,5780,Medium,Cruise,Solo,26664516195
+561,Sydney,Australia,19-11-2024,25-11-2024,6,David Moore,Female,Jamaica,1406,4,3797401,2892,High,Train,Family,29339201955
+562,Rome,Italy,20-03-2025,03-04-2025,14,Jerry Harper,Other,Mozambique,9076,1,4518274,9684,Medium,Air,Couple,26664516195
+563,Bangkok,Thailand,23-05-2024,28-05-2024,5,Tammy Kane,Other,Italy,3224,4,5365911,4048,Low,Cruise,Family,28843595717
+564,Tokyo,Japan,11-09-2024,07-10-2024,26,Warren Miles,Other,Sudan,3415,4,3449848,3995,High,Train,Family,25514217912
+565,Dubai,UAE,06-09-2024,16-09-2024,10,Suzanne Rodriguez,Male,Egypt,4391,5,6073148,4810,Low,Air,Solo,26336822876
+566,Sydney,Australia,08-12-2024,30-12-2024,22,Carol Salazar,Male,Monaco,9171,1,8191518,10031,High,Car,Couple,29339201955
+567,Barcelona,Spain,29-11-2024,29-12-2024,30,Jennifer Goodwin,Female,South Africa,8341,2,8675399,9014,Medium,Train,Business,25858011842
+568,Tokyo,Japan,15-06-2024,19-06-2024,4,Brett Walker,Other,San Marino,7233,4,9172580,7399,High,Car,Couple,25514217912
+569,Tokyo,Japan,22-08-2024,08-09-2024,17,Melissa Walker,Male,Holy See (Vatican City State),8790,4,5395749,10301,Low,Air,Group,25514217912
+570,Rome,Italy,15-05-2024,05-06-2024,21,Michael Vaughn,Male,Canada,5631,3,4457055,6114,High,Car,Group,26664516195
+571,London,UK,09-04-2024,27-04-2024,18,Mrs. Elizabeth Knapp MD,Other,Switzerland,5921,3,3185559,7042,Medium,Train,Couple,27521149477
+572,Bangkok,Thailand,16-07-2025,30-07-2025,14,Hannah Cooper,Female,Slovenia,4881,4,3118040,6151,Low,Cruise,Group,28843595717
+573,New York,USA,24-12-2023,19-01-2024,26,Hannah Davis,Female,Saint Helena,4163,5,7351427,6016,Medium,Train,Group,25136471294
+574,Tokyo,Japan,08-01-2025,26-01-2025,18,Austin Williams,Male,Russian Federation,3193,4,8481860,3568,High,Cruise,Business,25514217912
+575,Bangkok,Thailand,14-10-2023,11-11-2023,28,Greg Rodriguez,Female,South Georgia and the South Sandwich Islands,5215,3,9531118,7073,High,Air,Couple,28843595717
+576,New York,USA,21-11-2023,16-12-2023,25,Natalie Black,Male,Mexico,1283,2,4366272,2358,High,Air,Couple,25136471294
+577,Bangkok,Thailand,18-11-2023,29-11-2023,11,Jeffery Murray,Female,South Georgia and the South Sandwich Islands,6203,5,9453155,7961,Medium,Car,Solo,28843595717
+578,Rome,Italy,26-05-2024,01-06-2024,6,Charlotte Sandoval,Female,Indonesia,3559,5,9761905,4989,High,Cruise,Group,26664516195
+579,London,UK,08-08-2023,22-08-2023,14,Sonya Cole,Female,Japan,8663,4,7598243,10584,Low,Bus,Business,27521149477
+580,London,UK,14-05-2024,31-05-2024,17,Daniel Ramirez,Other,Romania,2673,2,5760436,3636,High,Cruise,Business,27521149477
+581,Rome,Italy,05-04-2025,05-05-2025,30,Laura Lloyd,Male,Martinique,1596,2,5865079,2163,Medium,Car,Family,26664516195
+582,London,UK,09-12-2023,31-12-2023,22,Craig Wilson,Other,Paraguay,6779,3,7564156,8478,Medium,Cruise,Business,27521149477
+583,Sydney,Australia,17-05-2025,02-06-2025,16,Vincent Edwards MD,Male,India,3312,1,2197821,4902,Low,Car,Solo,29339201955
+584,Dubai,UAE,14-10-2024,22-10-2024,8,Harold Ellis,Female,China,1987,1,1170258,3886,Medium,Cruise,Solo,26336822876
+585,Paris,France,09-04-2025,06-05-2025,27,Rebecca Sellers,Female,Namibia,8884,1,1843629,9521,High,Train,Solo,27439114547
+586,Rome,Italy,20-09-2023,02-10-2023,12,Emily Allen,Male,Brazil,4353,3,7534998,5736,Low,Train,Business,26664516195
+587,Tokyo,Japan,06-12-2023,09-12-2023,3,Charles Price,Male,Nauru,6146,3,8088550,7202,High,Car,Business,25514217912
+588,Sydney,Australia,01-11-2023,08-11-2023,7,Jenny Tucker,Other,Martinique,9135,2,7759527,10527,High,Cruise,Couple,29339201955
+589,Cape Town,South Africa,05-01-2025,28-01-2025,23,Tara Thompson,Other,Chad,9045,3,5924517,10131,High,Train,Solo,28898545230
+590,Sydney,Australia,31-07-2024,12-08-2024,12,Cody Wilkinson,Female,Nicaragua,7053,3,2712506,7774,Low,Air,Business,29339201955
+591,Tokyo,Japan,27-08-2023,10-09-2023,14,Tiffany Washington,Female,Congo,7987,5,239537,9495,Medium,Bus,Family,25514217912
+592,Paris,France,10-04-2025,07-05-2025,27,Justin Delgado,Female,Ireland,5099,5,3979150,6830,Low,Cruise,Family,27439114547
+593,Dubai,UAE,29-12-2024,14-01-2025,16,Michael Wallace Jr.,Other,Monaco,7461,4,4292561,7895,High,Bus,Couple,26336822876
+594,Dubai,UAE,09-08-2023,20-08-2023,11,Connie Johnson,Male,Czech Republic,7217,2,8767278,8882,High,Car,Family,26336822876
+595,Cape Town,South Africa,06-09-2024,04-10-2024,28,Richard Cunningham,Female,Sierra Leone,7065,2,1248634,7538,Low,Car,Solo,28898545230
+596,Sydney,Australia,02-03-2025,24-03-2025,22,Jorge Armstrong III,Female,Mauritius,4758,5,8354323,5242,Medium,Air,Group,29339201955
+597,Paris,France,16-04-2025,06-05-2025,20,Kimberly Sherman PhD,Male,Kazakhstan,3346,1,4833096,3997,Low,Bus,Solo,27439114547
+598,Dubai,UAE,13-09-2024,18-09-2024,5,Jeffery Fitzgerald,Male,Palau,541,4,3743811,1341,Medium,Car,Couple,26336822876
+599,Bangkok,Thailand,19-02-2025,08-03-2025,17,Shaun Johnson,Other,Estonia,819,3,1445920,2646,Low,Air,Family,28843595717
+600,Rome,Italy,12-04-2024,17-04-2024,5,Angie Grimes,Other,British Indian Ocean Territory (Chagos Archipelago),8002,2,3324451,9936,Medium,Bus,Solo,26664516195
+601,New York,USA,10-03-2025,06-04-2025,27,Christine Rojas,Other,Portugal,4378,4,7531651,4984,High,Air,Group,25136471294
+602,Sydney,Australia,14-04-2024,10-05-2024,26,Lisa Patterson,Male,New Zealand,8838,2,8032696,9734,High,Car,Family,29339201955
+603,Tokyo,Japan,02-11-2023,25-11-2023,23,Robin Trujillo,Other,Mongolia,991,5,8839692,1341,Medium,Bus,Family,25514217912
+604,Dubai,UAE,14-04-2024,28-04-2024,14,Linda Jackson,Male,Romania,3868,1,4058849,5264,Medium,Car,Solo,26336822876
+605,Tokyo,Japan,29-02-2024,28-03-2024,28,Derek Hodge,Female,United Arab Emirates,9879,1,6740561,11595,Low,Air,Solo,25514217912
+606,Barcelona,Spain,25-12-2024,22-01-2025,28,Brandy Brady,Other,Isle of Man,8086,5,2700333,8946,Low,Train,Group,25858011842
+607,Sydney,Australia,29-06-2025,04-07-2025,5,Donald Rios,Other,Reunion,5844,1,1102860,6672,High,Train,Business,29339201955
+608,New York,USA,19-05-2025,26-05-2025,7,Charles Morris,Female,Egypt,4112,3,9467565,5826,High,Car,Couple,25136471294
+609,Dubai,UAE,27-02-2025,02-03-2025,3,Jenna Thomas,Other,Niue,6489,3,2360430,7102,Low,Bus,Couple,26336822876
+610,Cape Town,South Africa,10-02-2024,22-02-2024,12,Jaime Jones,Other,South Africa,8329,2,9607677,8811,High,Car,Family,28898545230
+611,Sydney,Australia,30-05-2025,10-06-2025,11,Jennifer Brady,Other,Puerto Rico,9385,2,1255557,10572,Low,Bus,Family,29339201955
+612,London,UK,13-07-2025,02-08-2025,20,Jordan Freeman,Female,Morocco,7739,1,8588562,8615,High,Train,Solo,27521149477
+613,Barcelona,Spain,18-07-2023,17-08-2023,30,Sarah Davis,Female,Kuwait,4212,3,1162698,5660,High,Bus,Group,25858011842
+614,Cape Town,South Africa,21-11-2024,15-12-2024,24,Heather Brown,Female,Marshall Islands,9335,2,4850117,10095,Medium,Car,Solo,28898545230
+615,New York,USA,20-05-2024,08-06-2024,19,Jeffrey Lewis,Other,Ethiopia,1392,1,2277250,1857,Low,Train,Solo,25136471294
+616,Sydney,Australia,23-03-2024,01-04-2024,9,Gail Lane,Male,Monaco,821,5,6619606,2268,Medium,Cruise,Business,29339201955
+617,Barcelona,Spain,09-05-2025,20-05-2025,11,Mr. Michael Williams,Male,Bolivia,6302,2,1289067,6428,Low,Bus,Solo,25858011842
+618,Sydney,Australia,14-11-2024,12-12-2024,28,Julia Martinez,Other,Togo,1294,3,9462020,2916,Medium,Car,Solo,29339201955
+619,Barcelona,Spain,16-11-2023,27-11-2023,11,Aaron Rubio,Other,Cook Islands,966,1,5198672,1225,Low,Cruise,Solo,25858011842
+620,New York,USA,01-01-2025,27-01-2025,26,Sonia Turner,Male,Tunisia,9010,4,3278618,9505,High,Train,Business,25136471294
+621,Tokyo,Japan,10-07-2025,30-07-2025,20,Anna Ward,Other,Belize,9444,4,1870234,11113,High,Cruise,Family,25514217912
+622,Sydney,Australia,30-04-2024,25-05-2024,25,Mariah Williams,Other,Nigeria,7297,1,2898595,9019,Low,Cruise,Couple,29339201955
+623,Cape Town,South Africa,10-03-2024,23-03-2024,13,Nicole Patterson,Other,Bermuda,2891,5,7532510,3712,Medium,Cruise,Family,28898545230
+624,Bangkok,Thailand,13-01-2025,29-01-2025,16,Daniel Miller,Other,Namibia,7354,3,4138654,8607,High,Train,Couple,28843595717
+625,Cape Town,South Africa,08-01-2024,03-02-2024,26,Jill Smith,Female,Guam,6198,4,7607800,7111,Low,Air,Family,28898545230
+626,Barcelona,Spain,11-04-2025,14-04-2025,3,Scott Benson,Other,Lesotho,2513,3,210206,3228,Low,Train,Family,25858011842
+627,Paris,France,10-09-2023,07-10-2023,27,Brandon Shaffer,Other,Bosnia and Herzegovina,4821,5,8677712,6060,High,Cruise,Group,27439114547
+628,New York,USA,16-03-2024,20-03-2024,4,Edwin Reyes,Female,Suriname,6127,2,2422104,6769,Medium,Cruise,Group,25136471294
+629,Dubai,UAE,20-02-2025,03-03-2025,11,Margaret Byrd,Female,Bangladesh,1805,5,6807501,3070,Low,Air,Family,26336822876
+630,Sydney,Australia,01-09-2024,09-09-2024,8,Lisa Martin,Female,Guernsey,9740,1,5139762,9916,High,Cruise,Couple,29339201955
+631,New York,USA,28-01-2025,24-02-2025,27,Paul Gillespie,Male,New Zealand,5778,3,7386418,6731,Low,Train,Business,25136471294
+632,Paris,France,31-12-2024,23-01-2025,23,Daniel Mosley,Other,Burundi,6566,1,5213416,7739,Low,Car,Business,27439114547
+633,Barcelona,Spain,20-02-2025,27-02-2025,7,Nicholas Bell,Female,Japan,8531,2,2670227,8734,High,Bus,Couple,25858011842
+634,Barcelona,Spain,17-03-2024,07-04-2024,21,Danielle Newman,Other,Egypt,1775,2,7346678,2468,Medium,Train,Group,25858011842
+635,Bangkok,Thailand,18-09-2024,23-09-2024,5,Michelle Mitchell,Female,Wallis and Futuna,9662,1,9296471,10579,Medium,Air,Couple,28843595717
+636,Cape Town,South Africa,03-01-2025,19-01-2025,16,Ryan Liu,Other,Costa Rica,2436,2,8168540,3681,Low,Bus,Couple,28898545230
+637,Barcelona,Spain,22-08-2024,31-08-2024,9,Chelsea Myers,Other,Oman,8889,2,4165372,9135,Medium,Bus,Family,25858011842
+638,Barcelona,Spain,28-08-2023,02-09-2023,5,Rebecca Allen,Male,Hungary,7076,4,6228174,7889,Low,Car,Family,25858011842
+639,Barcelona,Spain,12-10-2023,04-11-2023,23,Mark Jones,Male,Tuvalu,5294,2,5967267,6656,Medium,Cruise,Group,25858011842
+640,Sydney,Australia,26-07-2023,30-07-2023,4,Dr. Bonnie Valencia,Male,Mongolia,3571,3,2717098,5222,High,Air,Solo,29339201955
+641,Paris,France,07-06-2024,17-06-2024,10,Michael Farmer,Other,Zimbabwe,2719,3,330406,3522,High,Air,Family,27439114547
+642,Sydney,Australia,06-03-2025,24-03-2025,18,Kevin Smith,Male,Cuba,5737,2,9126233,6270,Low,Cruise,Business,29339201955
+643,London,UK,16-08-2023,05-09-2023,20,Tiffany Sanders,Female,France,2615,1,6418411,3908,High,Cruise,Solo,27521149477
+644,London,UK,16-11-2024,24-11-2024,8,Pamela Henderson,Male,Iran,4953,2,4651347,5161,Medium,Air,Solo,27521149477
+645,Rome,Italy,19-09-2023,13-10-2023,24,Kimberly Hernandez,Female,Belize,6201,1,420081,6900,High,Bus,Group,26664516195
+646,Rome,Italy,13-03-2024,01-04-2024,19,Thomas Mccann,Other,Cape Verde,1931,3,8231281,3806,High,Cruise,Solo,26664516195
+647,Tokyo,Japan,05-09-2024,14-09-2024,9,Kevin Hines,Other,Pakistan,7803,5,460516,7984,Low,Cruise,Family,25514217912
+648,Bangkok,Thailand,26-12-2024,13-01-2025,18,Emily Kim,Female,Zimbabwe,2872,1,5918001,4373,Medium,Car,Family,28843595717
+649,Dubai,UAE,04-05-2025,23-05-2025,19,David Middleton,Female,Brazil,1315,3,6595644,3238,Low,Cruise,Family,26336822876
+650,Dubai,UAE,03-07-2024,10-07-2024,7,Amy Wade,Female,Palestinian Territory,6736,2,1572955,8330,Medium,Cruise,Business,26336822876
+651,Dubai,UAE,11-02-2025,27-02-2025,16,Adam Taylor,Male,Algeria,9686,2,7254895,10425,High,Car,Couple,26336822876
+652,Cape Town,South Africa,21-11-2023,28-11-2023,7,Gregory Holmes PhD,Male,Eritrea,2570,5,9182410,4070,Low,Train,Family,28898545230
+653,Cape Town,South Africa,23-11-2023,30-11-2023,7,Paul Marks,Female,Saint Martin,2678,5,2751604,3428,Low,Cruise,Business,28898545230
+654,New York,USA,04-06-2025,12-06-2025,8,Steven Rogers,Female,Japan,2684,1,5446688,4586,Medium,Bus,Family,25136471294
+655,Sydney,Australia,13-02-2024,10-03-2024,26,Deborah Proctor,Other,Nigeria,4785,2,3253002,5103,Low,Train,Solo,29339201955
+656,Barcelona,Spain,14-09-2023,06-10-2023,22,Jorge Brown PhD,Female,Chad,9590,5,3974049,10911,Low,Train,Solo,25858011842
+657,Bangkok,Thailand,27-04-2024,02-05-2024,5,Raymond Shannon,Other,Peru,8108,2,8527608,9940,High,Bus,Family,28843595717
+658,Tokyo,Japan,28-01-2025,27-02-2025,30,Patrick Smith,Female,Togo,8351,4,2407080,8786,Low,Train,Solo,25514217912
+659,Rome,Italy,17-05-2025,13-06-2025,27,Angel Cox,Male,Uruguay,4721,4,3833840,6341,High,Train,Group,26664516195
+660,New York,USA,10-11-2023,18-11-2023,8,Tyler Johnson,Female,Spain,8327,3,7776330,10244,Low,Bus,Couple,25136471294
+661,Paris,France,25-06-2025,17-07-2025,22,Mary Walker,Other,Egypt,6532,3,6712751,7884,High,Cruise,Business,27439114547
+662,Cape Town,South Africa,04-06-2024,23-06-2024,19,Erica Mckenzie,Other,Montenegro,930,5,1934023,1954,Medium,Air,Group,28898545230
+663,Cape Town,South Africa,01-05-2024,21-05-2024,20,Michael Williams,Female,Czech Republic,943,5,6599457,2100,High,Air,Group,28898545230
+664,London,UK,01-04-2025,18-04-2025,17,Amber Morales,Female,Turkey,5289,3,7840121,5729,Medium,Car,Business,27521149477
+665,Paris,France,12-07-2024,06-08-2024,25,Patricia Collins,Other,Benin,2630,4,7678236,2915,High,Cruise,Solo,27439114547
+666,Tokyo,Japan,18-09-2024,15-10-2024,27,Jacob Carter,Other,Slovenia,9252,2,6694565,10198,Medium,Bus,Solo,25514217912
+667,Tokyo,Japan,09-03-2024,26-03-2024,17,Dana Richardson,Other,Lithuania,3608,4,1612963,4220,Medium,Train,Solo,25514217912
+668,New York,USA,08-03-2025,14-03-2025,6,Morgan Payne,Other,South Africa,7662,3,1531206,8834,High,Bus,Business,25136471294
+669,Barcelona,Spain,23-01-2024,31-01-2024,8,Timothy Johnson,Female,Mauritania,9316,4,836621,10989,Low,Car,Business,25858011842
+670,Tokyo,Japan,11-04-2024,19-04-2024,8,Melissa Smith,Male,Grenada,3230,1,7139412,3960,Medium,Bus,Family,25514217912
+671,Tokyo,Japan,18-07-2023,24-07-2023,6,Jamie Rojas,Male,Gambia,3623,1,4346497,3748,Medium,Bus,Couple,25514217912
+672,Cape Town,South Africa,05-10-2023,02-11-2023,28,William Barnes,Male,Bahamas,8384,2,3738539,9689,High,Bus,Couple,28898545230
+673,Rome,Italy,04-11-2023,21-11-2023,17,Anna Morse,Male,Ukraine,407,2,9282868,1076,High,Cruise,Group,26664516195
+674,Paris,France,03-05-2025,11-05-2025,8,Mercedes Watson,Male,San Marino,1202,3,716077,1599,Low,Cruise,Business,27439114547
+675,London,UK,20-09-2023,03-10-2023,13,Kathy Walsh,Male,India,1103,1,7095376,1568,Low,Car,Business,27521149477
+676,Barcelona,Spain,13-09-2023,04-10-2023,21,Amy Bates,Other,Bulgaria,3206,4,9813442,4043,Low,Air,Family,25858011842
+677,Bangkok,Thailand,16-01-2024,30-01-2024,14,Samuel Howe,Female,India,1408,4,9335372,1640,Medium,Bus,Group,28843595717
+678,New York,USA,11-01-2025,05-02-2025,25,Erika Chavez,Female,Djibouti,5693,5,7041705,6867,Low,Train,Business,25136471294
+679,Paris,France,13-09-2023,19-09-2023,6,Brandy Carrillo,Other,Botswana,8966,1,8214518,10548,High,Cruise,Family,27439114547
+680,Rome,Italy,14-11-2023,06-12-2023,22,Jerry Edwards,Female,British Indian Ocean Territory (Chagos Archipelago),4554,5,9749293,5930,Medium,Train,Business,26664516195
+681,Barcelona,Spain,05-09-2024,23-09-2024,18,Randy Hayes,Other,Kyrgyz Republic,8454,4,3118342,10363,High,Train,Family,25858011842
+682,Dubai,UAE,07-02-2024,10-02-2024,3,Ann Aguirre,Male,Gabon,692,4,2078465,2302,Low,Cruise,Couple,26336822876
+683,Rome,Italy,18-04-2025,22-04-2025,4,Lindsey Lewis,Female,Togo,6028,5,3662439,6151,High,Train,Family,26664516195
+684,London,UK,27-03-2024,24-04-2024,28,Michael Schmitt,Male,Indonesia,5342,3,8600841,6568,Medium,Air,Solo,27521149477
+685,Bangkok,Thailand,18-08-2024,31-08-2024,13,Edwin Wilkins,Female,China,9621,5,588508,11425,Low,Train,Family,28843595717
+686,Bangkok,Thailand,10-08-2023,03-09-2023,24,Sarah Hawkins,Female,Mayotte,8074,1,2377572,9160,Low,Bus,Business,28843595717
+687,Bangkok,Thailand,27-01-2024,13-02-2024,17,Brian Leon,Female,British Virgin Islands,1217,5,5122154,2474,High,Car,Business,28843595717
+688,Cape Town,South Africa,26-07-2023,29-07-2023,3,Richard Walker,Male,Congo,9760,3,6032348,9995,Low,Car,Solo,28898545230
+689,Bangkok,Thailand,16-04-2025,01-05-2025,15,Michael Pace,Other,Belize,9053,2,9679482,10393,Medium,Train,Business,28843595717
+690,New York,USA,11-10-2024,10-11-2024,30,Sylvia Jones,Female,Bahrain,5452,1,4654970,6399,Low,Bus,Group,25136471294
+691,Bangkok,Thailand,17-12-2023,03-01-2024,17,Jill Anderson,Female,United Kingdom,3841,5,5172059,4299,Low,Car,Solo,28843595717
+692,Dubai,UAE,05-05-2025,10-05-2025,5,Erin Williams,Female,Kyrgyz Republic,8590,1,8197744,10543,High,Train,Group,26336822876
+693,Bangkok,Thailand,25-08-2023,12-09-2023,18,Kenneth Underwood,Other,Indonesia,8879,3,5591819,9272,Low,Cruise,Group,28843595717
+694,Dubai,UAE,05-08-2024,31-08-2024,26,Michael Thompson,Male,Croatia,7826,4,8863492,8163,Low,Car,Solo,26336822876
+695,Barcelona,Spain,21-06-2025,21-07-2025,30,Douglas Stephenson,Male,Antigua and Barbuda,5760,4,874096,6071,High,Car,Solo,25858011842
+696,Barcelona,Spain,04-11-2024,01-12-2024,27,Danielle Phillips,Female,Isle of Man,3738,3,3464763,4232,Medium,Car,Business,25858011842
+697,Bangkok,Thailand,01-06-2025,28-06-2025,27,Amy Ramirez,Female,Burundi,2227,3,2605186,2649,Medium,Air,Solo,28843595717
+698,Barcelona,Spain,06-06-2024,26-06-2024,20,Stephen Fox,Other,Niue,1977,2,9202121,2794,High,Car,Family,25858011842
+699,Tokyo,Japan,31-03-2025,25-04-2025,25,Alicia Reyes,Female,Rwanda,9705,2,2973517,9950,Medium,Cruise,Family,25514217912
+700,Cape Town,South Africa,20-04-2024,07-05-2024,17,Richard Cooper,Male,Monaco,2431,1,7997632,4380,High,Air,Solo,28898545230
+701,Rome,Italy,10-08-2024,14-08-2024,4,Devin Johnson,Male,Nauru,7287,4,3102836,8830,High,Cruise,Couple,26664516195
+702,Barcelona,Spain,03-01-2024,17-01-2024,14,Robert Campbell,Female,Sudan,5744,2,9050391,6004,Medium,Cruise,Group,25858011842
+703,New York,USA,17-07-2024,15-08-2024,29,Pamela Key,Other,Cayman Islands,7972,1,7743434,8707,High,Bus,Couple,25136471294
+704,Dubai,UAE,02-10-2023,12-10-2023,10,David Ferguson,Male,Somalia,4527,3,6677959,5002,High,Car,Family,26336822876
+705,Sydney,Australia,28-06-2025,16-07-2025,18,Pamela Gould,Male,Montserrat,1370,4,1993930,2189,Medium,Bus,Group,29339201955
+706,London,UK,04-05-2025,31-05-2025,27,Mrs. Taylor Frey,Female,China,9715,2,8621981,10025,Medium,Air,Family,27521149477
+707,Cape Town,South Africa,30-11-2023,23-12-2023,23,Evan Rojas,Male,Guinea-Bissau,5249,5,7833874,6169,High,Bus,Group,28898545230
+708,Barcelona,Spain,25-06-2025,05-07-2025,10,Michele Bell,Other,Mongolia,2905,4,6539371,3140,Medium,Train,Business,25858011842
+709,Rome,Italy,26-09-2024,24-10-2024,28,Travis Copeland,Female,Sudan,9593,3,9235645,11114,Low,Train,Solo,26664516195
+710,Barcelona,Spain,31-05-2025,29-06-2025,29,Kimberly Thompson,Female,Argentina,2173,5,7866314,2939,High,Air,Couple,25858011842
+711,Tokyo,Japan,25-09-2023,07-10-2023,12,Kyle Smith,Female,Lesotho,1440,5,1924432,2943,High,Bus,Family,25514217912
+712,Sydney,Australia,17-07-2023,09-08-2023,23,Lucas Drake,Other,Guam,1307,1,3750919,3080,Low,Cruise,Solo,29339201955
+713,Tokyo,Japan,23-01-2025,16-02-2025,24,Robert Oneill,Male,Bahamas,7721,5,4990613,8619,High,Cruise,Couple,25514217912
+714,Dubai,UAE,03-08-2023,12-08-2023,9,Michael Thomas,Other,Bouvet Island (Bouvetoya),5487,3,9667650,7213,High,Car,Couple,26336822876
+715,Bangkok,Thailand,04-05-2025,09-05-2025,5,Holly Jones,Other,Romania,433,5,8663491,1360,Low,Car,Solo,28843595717
+716,Bangkok,Thailand,12-12-2024,01-01-2025,20,Brian Turner,Male,Burkina Faso,313,5,6127124,637,Medium,Air,Group,28843595717
+717,Rome,Italy,16-11-2023,11-12-2023,25,Jessica Fowler,Other,Libyan Arab Jamahiriya,6759,3,6522144,7690,Medium,Bus,Business,26664516195
+718,Dubai,UAE,02-12-2024,26-12-2024,24,Michael Hoffman,Male,Tuvalu,8080,2,3257922,9317,Medium,Car,Couple,26336822876
+719,Tokyo,Japan,07-07-2025,19-07-2025,12,Heather Wade,Other,Suriname,2356,2,294661,2602,High,Air,Group,25514217912
+720,Sydney,Australia,30-11-2023,24-12-2023,24,Nicholas Phillips,Female,Christmas Island,2524,1,2402174,3939,Medium,Bus,Business,29339201955
+721,Rome,Italy,02-02-2025,24-02-2025,22,Michael Berry,Male,Thailand,7744,5,7215631,8974,Medium,Bus,Family,26664516195
+722,Dubai,UAE,06-03-2025,14-03-2025,8,Amanda Guzman,Female,Uruguay,421,5,8457686,2255,High,Train,Business,26336822876
+723,London,UK,05-04-2025,21-04-2025,16,Connie Cunningham,Other,Vietnam,9742,3,661397,9919,High,Bus,Family,27521149477
+724,New York,USA,05-08-2024,26-08-2024,21,Patrick Young,Female,Ghana,1611,2,8931661,3470,Medium,Bus,Business,25136471294
+725,New York,USA,24-11-2023,13-12-2023,19,Tracey Underwood,Other,Paraguay,1749,2,8026422,3140,High,Air,Business,25136471294
+726,Barcelona,Spain,24-11-2024,06-12-2024,12,Gabriela Smith,Other,Cote d'Ivoire,1164,3,9076368,2858,Low,Bus,Couple,25858011842
+727,Cape Town,South Africa,26-01-2024,13-02-2024,18,Hayley Buchanan,Other,Saint Helena,5731,4,6020923,7465,Medium,Car,Group,28898545230
+728,Paris,France,17-07-2023,11-08-2023,25,Jeffrey Barnes,Other,Chad,5281,5,4469510,5506,High,Bus,Business,27439114547
+729,Tokyo,Japan,03-06-2025,24-06-2025,21,Stephen Bell,Male,Honduras,5080,5,557985,5767,Medium,Air,Group,25514217912
+730,Cape Town,South Africa,03-10-2023,08-10-2023,5,Rachel Lane,Female,Senegal,4429,2,4813926,5092,Medium,Air,Solo,28898545230
+731,Barcelona,Spain,31-12-2024,08-01-2025,8,Jerry Lloyd,Other,Antigua and Barbuda,2776,4,6303657,4530,Low,Car,Group,25858011842
+732,Sydney,Australia,02-03-2024,10-03-2024,8,Dean Garcia,Other,Guam,842,3,1516021,1239,High,Train,Couple,29339201955
+733,Rome,Italy,26-11-2023,23-12-2023,27,Candace Jones,Female,Western Sahara,4198,4,2906547,4729,High,Car,Solo,26664516195
+734,London,UK,13-06-2025,10-07-2025,27,Gail Galloway,Male,Uganda,1160,2,7884878,2076,Medium,Car,Couple,27521149477
+735,Cape Town,South Africa,25-07-2024,04-08-2024,10,Jessica Valdez,Female,Netherlands,6690,4,4506118,7087,High,Bus,Solo,28898545230
+736,London,UK,07-06-2025,05-07-2025,28,Anthony Rivera,Female,Comoros,6558,3,8996176,8056,Low,Air,Business,27521149477
+737,Bangkok,Thailand,29-05-2024,28-06-2024,30,Miranda Blair,Female,Estonia,4766,3,4635319,5412,Low,Car,Business,28843595717
+738,Rome,Italy,11-12-2024,28-12-2024,17,David Williams,Other,Montenegro,4261,5,3370310,5425,Medium,Train,Family,26664516195
+739,Cape Town,South Africa,15-09-2024,18-09-2024,3,Brittany Ward,Other,Japan,438,1,300679,1380,Low,Cruise,Solo,28898545230
+740,Sydney,Australia,23-09-2023,07-10-2023,14,Matthew Greene,Male,Cook Islands,4941,3,3339337,5110,Low,Cruise,Solo,29339201955
+741,Paris,France,30-09-2023,22-10-2023,22,Christopher Carter,Other,Belgium,3852,5,2143299,5402,Low,Air,Business,27439114547
+742,Tokyo,Japan,18-07-2024,02-08-2024,15,Elizabeth Sanders,Other,Liechtenstein,9574,2,1959671,11098,Low,Car,Family,25514217912
+743,Sydney,Australia,11-06-2025,05-07-2025,24,Anna Stephens,Male,Colombia,7729,3,7263592,9246,High,Car,Family,29339201955
+744,Tokyo,Japan,30-04-2024,27-05-2024,27,Jaclyn Griffin,Male,Estonia,4843,1,6522301,5738,Medium,Air,Family,25514217912
+745,London,UK,22-06-2024,30-06-2024,8,Darrell Adams,Female,Bahamas,1437,4,3466669,2786,Medium,Train,Couple,27521149477
+746,New York,USA,11-11-2023,18-11-2023,7,Mary Miller,Other,Guatemala,7365,2,1882574,9334,Medium,Car,Solo,25136471294
+747,Paris,France,04-04-2025,09-04-2025,5,Tracy Lawrence,Male,Mexico,9660,3,7580659,9798,Medium,Train,Solo,27439114547
+748,Paris,France,02-09-2023,26-09-2023,24,Sabrina Barnes,Female,Martinique,4665,2,5633643,6617,Medium,Cruise,Solo,27439114547
+749,Cape Town,South Africa,31-12-2024,25-01-2025,25,Karen Keith,Female,Lebanon,8133,4,6876531,9961,High,Air,Business,28898545230
+750,Dubai,UAE,05-03-2024,08-03-2024,3,Steven Klein,Female,Macao,8198,1,9616773,9394,Medium,Car,Family,26336822876
+751,Rome,Italy,02-10-2024,06-10-2024,4,Rebecca Byrd,Other,Nicaragua,1785,3,9069540,3632,Medium,Air,Couple,26664516195
+752,London,UK,08-11-2023,01-12-2023,23,Peter Thompson,Male,Chad,3193,5,759867,4079,High,Train,Family,27521149477
+753,Rome,Italy,28-12-2023,03-01-2024,6,Beth Henderson,Other,Pitcairn Islands,6186,4,1523756,8098,High,Bus,Group,26664516195
+754,Tokyo,Japan,19-06-2024,23-06-2024,4,Rodney Hernandez,Male,Nauru,715,5,4101116,1816,Medium,Air,Business,25514217912
+755,London,UK,02-02-2024,20-02-2024,18,Nicholas Aguirre,Other,Benin,7661,1,721473,8455,Low,Car,Solo,27521149477
+756,Rome,Italy,13-05-2024,19-05-2024,6,Kristen Gates,Male,Maldives,8870,4,9102006,9275,High,Cruise,Group,26664516195
+757,New York,USA,06-07-2024,10-07-2024,4,Alexandria Graves,Other,Myanmar,2619,4,419824,3684,High,Air,Group,25136471294
+758,Tokyo,Japan,25-08-2024,28-08-2024,3,Ashley Hernandez,Male,Mongolia,1118,3,1732292,2152,High,Train,Business,25514217912
+759,New York,USA,15-10-2024,13-11-2024,29,Traci Garcia,Male,Botswana,2170,4,3800592,2399,Low,Bus,Family,25136471294
+760,Rome,Italy,26-09-2024,09-10-2024,13,Rachel Dillon,Male,Turkmenistan,9736,5,2404005,10494,Low,Air,Business,26664516195
+761,Tokyo,Japan,09-04-2024,22-04-2024,13,Deborah Pena,Male,Montenegro,2278,3,2469560,3929,Medium,Train,Family,25514217912
+762,Cape Town,South Africa,31-10-2024,08-11-2024,8,Christopher Powell,Female,Nicaragua,4291,5,782814,4664,Low,Cruise,Couple,28898545230
+763,Tokyo,Japan,31-10-2024,03-11-2024,3,Jennifer Foster,Female,Turkmenistan,1622,1,221198,2089,Low,Cruise,Family,25514217912
+764,Rome,Italy,30-03-2024,24-04-2024,25,Amber Alvarez,Female,Ethiopia,2379,2,2500615,3789,Medium,Cruise,Couple,26664516195
+765,Rome,Italy,12-06-2025,22-06-2025,10,George Leon,Male,Georgia,916,5,3119906,2484,Medium,Cruise,Solo,26664516195
+766,London,UK,19-02-2024,04-03-2024,14,Shannon Cohen,Female,Trinidad and Tobago,374,5,4053366,867,Low,Cruise,Solo,27521149477
+767,Barcelona,Spain,10-01-2024,24-01-2024,14,William Ramos,Other,Sweden,8615,2,7888252,10292,High,Train,Family,25858011842
+768,Paris,France,22-03-2024,31-03-2024,9,Jason Brewer,Male,Comoros,2744,4,8446913,3205,Low,Air,Solo,27439114547
+769,Bangkok,Thailand,24-06-2024,06-07-2024,12,Rodney Figueroa,Male,Senegal,7421,3,5708533,8784,Medium,Air,Solo,28843595717
+770,Paris,France,21-08-2024,10-09-2024,20,Samantha Robertson,Male,Cayman Islands,2889,1,8237979,4043,Low,Air,Group,27439114547
+771,Sydney,Australia,05-09-2023,26-09-2023,21,Jonathon Taylor,Other,Thailand,5640,4,3434495,7270,High,Car,Group,29339201955
+772,New York,USA,27-08-2024,09-09-2024,13,Alyssa Lee,Male,Syrian Arab Republic,1906,2,7022203,3787,Low,Bus,Group,25136471294
+773,New York,USA,19-12-2023,06-01-2024,18,Danielle Bryant,Other,Uruguay,8236,1,7412602,8632,Low,Cruise,Couple,25136471294
+774,Tokyo,Japan,21-04-2024,06-05-2024,15,Denise Colon,Female,Macedonia,2534,4,3357379,3928,Medium,Car,Group,25514217912
+775,Bangkok,Thailand,20-05-2024,27-05-2024,7,Becky Johnson,Male,Holy See (Vatican City State),9617,1,4807756,9996,Low,Bus,Couple,28843595717
+776,Rome,Italy,30-07-2024,07-08-2024,8,Cassandra Harrell,Female,Myanmar,3902,3,2730468,5618,High,Cruise,Group,26664516195
+777,Barcelona,Spain,17-09-2024,07-10-2024,20,Christopher Kline,Male,San Marino,1716,4,8853827,2817,Low,Cruise,Couple,25858011842
+778,Sydney,Australia,22-04-2025,03-05-2025,11,Dominique Hughes,Male,Central African Republic,7314,2,4257921,8084,Medium,Cruise,Group,29339201955
+779,Barcelona,Spain,10-05-2025,17-05-2025,7,Traci Vincent,Other,Oman,383,4,841958,565,Medium,Cruise,Solo,25858011842
+780,Rome,Italy,07-01-2024,26-01-2024,19,Debra Ortiz,Female,Angola,8152,1,7690706,9266,Low,Air,Business,26664516195
+781,Paris,France,18-05-2025,12-06-2025,25,Patricia Smith,Other,United States Minor Outlying Islands,6962,2,2326537,7796,Medium,Train,Solo,27439114547
+782,Paris,France,27-10-2023,14-11-2023,18,Lindsay Smith,Other,El Salvador,5294,2,7805487,7151,High,Cruise,Solo,27439114547
+783,Sydney,Australia,31-10-2024,17-11-2024,17,Elizabeth Rasmussen,Male,Norway,6941,2,6314624,8324,Medium,Air,Solo,29339201955
+784,Rome,Italy,15-02-2024,11-03-2024,25,James Bailey,Female,El Salvador,8998,1,5075954,9970,Medium,Cruise,Business,26664516195
+785,Barcelona,Spain,02-01-2024,30-01-2024,28,Michael Holloway,Male,Indonesia,1626,5,5732022,3232,Low,Cruise,Family,25858011842
+786,Paris,France,12-10-2024,18-10-2024,6,Jorge Bates,Female,Tajikistan,6289,4,785757,7137,Medium,Train,Business,27439114547
+787,New York,USA,28-04-2025,18-05-2025,20,Matthew Lynch,Other,French Southern Territories,3654,2,5719187,4242,High,Air,Couple,25136471294
+788,Barcelona,Spain,29-12-2024,28-01-2025,30,Arthur Mcneil,Other,Northern Mariana Islands,3737,2,5476490,4559,Medium,Cruise,Couple,25858011842
+789,London,UK,25-03-2024,29-03-2024,4,Debbie Dawson,Male,Uganda,6408,3,7690191,7503,High,Cruise,Solo,27521149477
+790,Sydney,Australia,04-12-2024,29-12-2024,25,Chris Cannon,Other,United Arab Emirates,9030,3,7682938,10401,Medium,Air,Group,29339201955
+791,Sydney,Australia,30-08-2023,04-09-2023,5,Rebekah Greene,Male,Panama,6700,2,4938090,6957,Low,Train,Family,29339201955
+792,New York,USA,21-03-2024,15-04-2024,25,Mikayla Rios,Male,French Polynesia,8431,2,3526849,9597,High,Air,Family,25136471294
+793,Rome,Italy,03-02-2024,27-02-2024,24,Jennifer Doyle,Other,Mozambique,2463,4,5916664,3423,Medium,Air,Family,26664516195
+794,Dubai,UAE,16-01-2025,21-01-2025,5,Rose Cooper DDS,Male,Poland,4106,5,5735087,5049,High,Car,Family,26336822876
+795,Sydney,Australia,04-09-2024,25-09-2024,21,Karen Shepard,Other,Guinea-Bissau,8986,5,7570161,10023,Medium,Cruise,Group,29339201955
+796,London,UK,14-08-2024,22-08-2024,8,Christopher Sandoval,Female,Micronesia,4015,4,6339485,4705,Low,Train,Family,27521149477
+797,London,UK,04-12-2023,21-12-2023,17,John Figueroa,Male,Saint Kitts and Nevis,2934,5,4885643,3407,Low,Train,Group,27521149477
+798,Dubai,UAE,04-04-2025,10-04-2025,6,Susan Arroyo,Male,United Arab Emirates,5487,5,2221873,6489,Medium,Car,Group,26336822876
+799,Dubai,UAE,02-04-2024,22-04-2024,20,Courtney Walker,Other,Tunisia,868,3,5868795,1270,Medium,Bus,Business,26336822876
+800,Tokyo,Japan,11-03-2024,31-03-2024,20,Stephen Watson,Female,Mozambique,2290,1,6887429,3412,Low,Bus,Family,25514217912
+801,Tokyo,Japan,01-03-2024,04-03-2024,3,Bruce Brown,Other,Norfolk Island,9248,5,5657966,10673,High,Car,Couple,25514217912
+802,London,UK,12-10-2024,08-11-2024,27,Lisa Kennedy,Other,Congo,2709,5,7517300,3502,High,Air,Couple,27521149477
+803,Paris,France,08-08-2024,15-08-2024,7,Michael Moreno,Other,Isle of Man,9326,1,5268761,9476,Medium,Cruise,Group,27439114547
+804,Sydney,Australia,27-08-2023,10-09-2023,14,Brittany Gay,Male,Guam,5647,1,3374069,6941,High,Train,Family,29339201955
+805,Dubai,UAE,29-05-2024,01-06-2024,3,Dr. Victoria Thomas,Male,Tokelau,9121,4,1565941,10269,Medium,Train,Couple,26336822876
+806,Bangkok,Thailand,22-01-2025,13-02-2025,22,Bobby Cook,Other,Christmas Island,8681,1,6157663,9595,Low,Bus,Family,28843595717
+807,Rome,Italy,16-03-2024,30-03-2024,14,Abigail Hill,Male,Senegal,4963,3,5994759,5693,Medium,Cruise,Solo,26664516195
+808,Dubai,UAE,08-03-2025,03-04-2025,26,Phillip Burns,Female,Serbia,7109,4,4942475,7544,High,Bus,Couple,26336822876
+809,Tokyo,Japan,13-03-2025,11-04-2025,29,Lucas Schultz,Other,Iraq,1710,2,3586033,2431,Medium,Cruise,Family,25514217912
+810,New York,USA,14-06-2024,05-07-2024,21,Janet Johnson,Female,Cook Islands,1749,1,6969609,3157,Medium,Bus,Group,25136471294
+811,Cape Town,South Africa,03-02-2025,20-02-2025,17,Adrian Morris,Other,Syrian Arab Republic,9604,2,3442987,10084,Medium,Car,Business,28898545230
+812,Sydney,Australia,01-09-2024,05-09-2024,4,Michael Sims,Female,Egypt,9888,3,8389630,11133,High,Bus,Group,29339201955
+813,Paris,France,08-01-2024,05-02-2024,28,Haley Anderson,Male,Hungary,2823,3,5136006,4234,High,Bus,Solo,27439114547
+814,London,UK,10-08-2024,26-08-2024,16,Carol Colon,Male,French Southern Territories,8359,2,577187,8703,Medium,Bus,Solo,27521149477
+815,Barcelona,Spain,27-02-2024,24-03-2024,26,Joseph Warren,Female,Jordan,9820,4,9588767,10813,Medium,Bus,Solo,25858011842
+816,Bangkok,Thailand,05-06-2025,24-06-2025,19,Brandi Ferrell,Other,Liechtenstein,9725,1,4454311,10158,High,Air,Group,28843595717
+817,Bangkok,Thailand,21-04-2024,08-05-2024,17,Carmen Meadows,Other,Sudan,2519,3,2839867,2727,Medium,Car,Couple,28843595717
+818,Bangkok,Thailand,25-05-2024,29-05-2024,4,Danny Mercer,Female,Croatia,5078,5,1388937,6230,Low,Train,Solo,28843595717
+819,Barcelona,Spain,06-02-2025,05-03-2025,27,Jonathan Martinez,Male,Rwanda,9208,3,5405130,11001,High,Car,Family,25858011842
+820,Bangkok,Thailand,03-12-2024,09-12-2024,6,Jaime Bowman,Other,Sierra Leone,9803,3,2511179,9929,Low,Cruise,Family,28843595717
+821,Bangkok,Thailand,04-09-2024,01-10-2024,27,Linda Williams,Female,Botswana,7050,3,2835175,7359,Low,Train,Business,28843595717
+822,Dubai,UAE,05-12-2024,03-01-2025,29,Amber Wilson,Male,Kenya,9453,5,8918990,11285,High,Cruise,Solo,26336822876
+823,Rome,Italy,07-05-2024,24-05-2024,17,David Miles,Male,Costa Rica,2209,2,391577,3291,Medium,Car,Family,26664516195
+824,Tokyo,Japan,06-01-2025,04-02-2025,29,Alexandra Fisher,Female,Bolivia,8870,3,2989156,10423,Medium,Air,Solo,25514217912
+825,Dubai,UAE,12-12-2024,19-12-2024,7,Lisa Haynes,Other,Italy,2632,2,5257791,2988,Low,Train,Solo,26336822876
+826,Rome,Italy,22-04-2025,17-05-2025,25,Kayla Williamson,Male,Finland,1573,1,8224448,3224,Medium,Air,Group,26664516195
+827,New York,USA,13-10-2023,17-10-2023,4,Kathleen Lynch,Other,Slovakia (Slovak Republic),8712,5,1094305,9772,Low,Car,Solo,25136471294
+828,New York,USA,06-02-2024,18-02-2024,12,Valerie Howard,Other,Ireland,468,1,2176911,2452,High,Train,Business,25136471294
+829,Dubai,UAE,02-03-2024,10-03-2024,8,Joshua Lozano,Other,Portugal,6059,1,1623024,6457,High,Car,Business,26336822876
+830,Bangkok,Thailand,10-07-2025,24-07-2025,14,Mr. Adam Davis,Male,Bouvet Island (Bouvetoya),8502,5,4157108,9636,High,Air,Solo,28843595717
+831,Barcelona,Spain,25-04-2025,22-05-2025,27,Kathleen Herring,Male,Slovakia (Slovak Republic),8964,2,3313634,9641,Low,Cruise,Solo,25858011842
+832,New York,USA,17-08-2024,26-08-2024,9,Nathaniel Conway,Other,Norway,8077,3,9988165,8556,Medium,Air,Group,25136471294
+833,Bangkok,Thailand,12-01-2024,27-01-2024,15,William Baker,Female,Australia,3810,5,3917726,4744,Low,Car,Solo,28843595717
+834,Sydney,Australia,02-10-2023,08-10-2023,6,Shelly Phelps,Other,Guyana,2526,4,6160776,4069,Medium,Cruise,Solo,29339201955
+835,New York,USA,30-03-2025,12-04-2025,13,Jessica Wilson,Female,Thailand,2195,4,4858210,3230,High,Car,Couple,25136471294
+836,Dubai,UAE,24-02-2025,16-03-2025,20,Alexandra Taylor,Female,Oman,5061,4,3267286,6915,Low,Bus,Family,26336822876
+837,Tokyo,Japan,26-11-2023,29-11-2023,3,Steven Friedman,Other,Ethiopia,8355,1,6749981,9352,High,Air,Solo,25514217912
+838,Tokyo,Japan,29-05-2025,13-06-2025,15,Jacqueline Cooper,Female,Brazil,9975,1,2930705,10207,Medium,Train,Family,25514217912
+839,Dubai,UAE,23-05-2024,14-06-2024,22,Jesus Houston,Female,Portugal,2311,2,7225354,3896,Medium,Car,Business,26336822876
+840,Barcelona,Spain,07-05-2025,18-05-2025,11,Javier Mercado,Other,Chad,6857,3,8083040,8322,High,Bus,Couple,25858011842
+841,Cape Town,South Africa,12-10-2023,23-10-2023,11,Nicholas Jarvis,Male,Tanzania,7748,1,2150009,8361,Medium,Bus,Group,28898545230
+842,Tokyo,Japan,17-11-2023,20-11-2023,3,Thomas Webb,Male,Mongolia,1165,1,8457316,2653,Low,Train,Couple,25514217912
+843,Barcelona,Spain,24-12-2024,17-01-2025,24,Logan Maxwell,Female,New Caledonia,2802,3,1716210,4458,Low,Cruise,Couple,25858011842
+844,Sydney,Australia,08-08-2023,17-08-2023,9,Sheryl Acosta,Female,Uganda,8457,4,8569050,9092,High,Car,Business,29339201955
+845,Cape Town,South Africa,26-10-2023,29-10-2023,3,Mr. Stephen Alexander,Male,Bahrain,7351,1,6536241,8372,Medium,Bus,Couple,28898545230
+846,Sydney,Australia,05-02-2024,09-02-2024,4,Alexandria Oneill,Male,Mali,3197,5,5184244,5108,High,Train,Couple,29339201955
+847,Rome,Italy,04-03-2025,11-03-2025,7,Misty Walker,Female,Zimbabwe,6674,4,1935125,7939,High,Bus,Business,26664516195
+848,Cape Town,South Africa,18-12-2024,08-01-2025,21,Kelly Watts,Female,Nicaragua,8097,5,2722462,9234,Low,Bus,Family,28898545230
+849,Sydney,Australia,28-09-2023,19-10-2023,21,Nicholas Olson,Female,Panama,6079,3,5476808,6304,Low,Cruise,Solo,29339201955
+850,Tokyo,Japan,23-12-2024,21-01-2025,29,Brittany Serrano,Female,Uganda,6015,5,551304,7682,High,Car,Couple,25514217912
+851,New York,USA,04-11-2024,20-11-2024,16,Mason Moore,Female,Thailand,6155,4,5993320,6370,High,Train,Group,25136471294
+852,Dubai,UAE,15-07-2024,07-08-2024,23,Sheila Jones,Female,Liechtenstein,1691,1,5215582,2025,Medium,Train,Solo,26336822876
+853,Cape Town,South Africa,22-03-2024,04-04-2024,13,Wayne Williams,Male,Czech Republic,7851,4,9630287,9005,Medium,Car,Solo,28898545230
+854,Sydney,Australia,16-09-2024,07-10-2024,21,Jennifer Young,Male,Kuwait,5485,4,9668944,6384,Medium,Cruise,Solo,29339201955
+855,Sydney,Australia,26-06-2024,02-07-2024,6,Joan Gates,Other,Kiribati,3673,3,8433769,4802,High,Car,Group,29339201955
+856,Barcelona,Spain,18-03-2024,30-03-2024,12,Jonathan Valdez,Female,Bosnia and Herzegovina,7443,2,8437466,8844,Low,Cruise,Group,25858011842
+857,London,UK,25-05-2024,05-06-2024,11,Justin Smith,Male,Bermuda,5171,5,6844899,6918,Low,Cruise,Solo,27521149477
+858,Barcelona,Spain,22-03-2025,28-03-2025,6,Lisa Torres,Other,Madagascar,5818,3,1228599,7078,High,Bus,Couple,25858011842
+859,Dubai,UAE,25-09-2024,09-10-2024,14,Michael Clements,Male,Haiti,5245,5,5131638,6231,High,Cruise,Family,26336822876
+860,Dubai,UAE,18-04-2025,04-05-2025,16,Daniel Gibson,Female,Moldova,4416,5,8746460,5444,High,Cruise,Group,26336822876
+861,Paris,France,04-03-2025,27-03-2025,23,Kara Sandoval,Other,Saint Barthelemy,8757,2,9777824,9879,Low,Bus,Family,27439114547
+862,Cape Town,South Africa,02-07-2024,30-07-2024,28,Peter Walker,Other,Guam,7406,5,1104647,8575,Low,Car,Couple,28898545230
+863,Tokyo,Japan,17-04-2024,27-04-2024,10,Tracey Carter,Male,Maldives,5219,4,6983025,5971,Low,Train,Couple,25514217912
+864,London,UK,02-05-2024,31-05-2024,29,Amber Martin,Female,Burundi,2931,3,4061601,3862,Low,Air,Group,27521149477
+865,Dubai,UAE,15-04-2025,18-04-2025,3,Mikayla Rodriguez,Male,New Caledonia,5387,4,8243364,6633,Medium,Bus,Solo,26336822876
+866,Dubai,UAE,16-12-2023,24-12-2023,8,Timothy Long,Female,Kuwait,2535,1,4435179,4252,Medium,Cruise,Group,26336822876
+867,Paris,France,17-04-2025,13-05-2025,26,Michelle Rodriguez,Female,Israel,626,1,1508104,1368,High,Car,Solo,27439114547
+868,Rome,Italy,22-08-2023,05-09-2023,14,Sara Chapman,Other,Sierra Leone,1779,4,2458208,2362,Low,Cruise,Business,26664516195
+869,New York,USA,08-06-2025,27-06-2025,19,Matthew Blanchard,Other,Burkina Faso,9809,5,4324638,10925,Low,Train,Business,25136471294
+870,New York,USA,07-08-2024,03-09-2024,27,Noah Tran,Female,Jersey,5695,5,6642286,7445,High,Train,Couple,25136471294
+871,Dubai,UAE,28-04-2025,05-05-2025,7,Tammy Norman,Male,United States Minor Outlying Islands,3169,2,4706139,4169,Medium,Car,Business,26336822876
+872,Paris,France,01-12-2023,19-12-2023,18,Carrie Ochoa,Other,Bosnia and Herzegovina,6439,1,5409820,7656,Medium,Bus,Group,27439114547
+873,London,UK,12-05-2024,09-06-2024,28,Lisa Morris,Male,Turkmenistan,6247,4,6269641,8029,Medium,Air,Business,27521149477
+874,Paris,France,10-05-2024,08-06-2024,29,Lee Schwartz,Other,Egypt,1195,2,4344348,2426,Medium,Car,Family,27439114547
+875,New York,USA,14-02-2024,05-03-2024,20,Grant Phillips,Male,Sri Lanka,7548,4,231971,9511,Medium,Car,Family,25136471294
+876,New York,USA,28-10-2023,26-11-2023,29,Lance Tanner,Male,Malawi,5172,2,2788166,7147,Medium,Car,Couple,25136471294
+877,Paris,France,05-03-2024,16-03-2024,11,Kimberly Edwards,Male,Saint Pierre and Miquelon,8355,4,7028341,10352,Medium,Bus,Solo,27439114547
+878,Tokyo,Japan,12-07-2025,06-08-2025,25,Claudia Clark,Female,Rwanda,8595,1,6003169,9556,High,Cruise,Family,25514217912
+879,Sydney,Australia,27-02-2024,23-03-2024,25,Tammy Anderson,Male,Russian Federation,1153,2,7539100,2873,High,Train,Solo,29339201955
+880,Rome,Italy,02-12-2024,11-12-2024,9,Cassandra Daniels,Other,Northern Mariana Islands,5306,3,9760477,5574,Low,Train,Group,26664516195
+881,Cape Town,South Africa,23-03-2024,17-04-2024,25,Paige Hart,Other,Mozambique,2431,5,6983963,4154,Medium,Bus,Couple,28898545230
+882,Tokyo,Japan,02-10-2024,13-10-2024,11,Michelle Craig,Male,Uganda,5667,3,3433024,5939,Medium,Car,Group,25514217912
+883,Rome,Italy,30-04-2025,15-05-2025,15,Sherry Henderson,Other,American Samoa,3977,1,485374,5967,High,Cruise,Group,26664516195
+884,New York,USA,26-08-2024,12-09-2024,17,James Brown,Male,Azerbaijan,4589,2,935219,5510,High,Bus,Business,25136471294
+885,London,UK,19-12-2023,26-12-2023,7,Richard Terrell,Male,Pitcairn Islands,6328,2,9616756,6668,Low,Cruise,Couple,27521149477
+886,Sydney,Australia,27-01-2024,25-02-2024,29,Antonio Mueller,Other,Costa Rica,8396,1,3866215,9957,Low,Train,Family,29339201955
+887,London,UK,21-02-2025,19-03-2025,26,Heather Chavez,Female,New Zealand,6559,2,7336157,8412,Low,Cruise,Group,27521149477
+888,London,UK,21-05-2025,16-06-2025,26,Kristina Walker,Other,Oman,3402,4,3126104,4338,Low,Air,Family,27521149477
+889,London,UK,24-09-2024,04-10-2024,10,Jorge Robles,Other,Qatar,7688,2,6301492,8981,High,Bus,Solo,27521149477
+890,Paris,France,25-02-2024,14-03-2024,18,Amber James,Male,Israel,5596,4,3660421,7156,Medium,Bus,Business,27439114547
+891,London,UK,20-03-2025,25-03-2025,5,Emily Arnold,Male,American Samoa,9425,1,974304,10206,Low,Bus,Family,27521149477
+892,Barcelona,Spain,13-02-2025,09-03-2025,24,Marc Norman,Other,Trinidad and Tobago,1045,1,4355656,2178,High,Bus,Family,25858011842
+893,Rome,Italy,25-06-2024,19-07-2024,24,Susan Bush,Female,Oman,2466,5,789962,3754,Low,Car,Group,26664516195
+894,Cape Town,South Africa,27-04-2024,15-05-2024,18,Kimberly Morrison,Female,Singapore,7969,2,1604043,8718,High,Cruise,Couple,28898545230
+895,Tokyo,Japan,30-01-2025,10-02-2025,11,Elizabeth Thompson,Male,Pitcairn Islands,5432,1,2245327,6554,Medium,Car,Couple,25514217912
+896,London,UK,12-09-2023,23-09-2023,11,Christopher Palmer,Other,Honduras,4621,5,5351441,5613,Low,Car,Couple,27521149477
+897,Tokyo,Japan,17-08-2023,06-09-2023,20,Justin Anderson,Other,Mozambique,7508,1,3269550,7912,Low,Train,Group,25514217912
+898,Paris,France,04-05-2025,22-05-2025,18,Gary Mckinney,Female,Cape Verde,2979,4,7422078,3316,Medium,Air,Couple,27439114547
+899,Bangkok,Thailand,17-08-2023,11-09-2023,25,Frank Williams,Other,Venezuela,8249,4,8370975,8579,High,Train,Solo,28843595717
+900,Bangkok,Thailand,13-11-2024,18-11-2024,5,Mary Henry,Male,Montenegro,4954,2,2923521,6589,High,Car,Business,28843595717
+901,Barcelona,Spain,16-09-2024,25-09-2024,9,Richard Stewart,Other,Cyprus,367,5,9676230,836,Medium,Air,Group,25858011842
+902,Sydney,Australia,06-12-2023,30-12-2023,24,Rachel Moore,Male,Mauritius,5684,1,4869447,7179,High,Air,Couple,29339201955
+903,Bangkok,Thailand,06-09-2024,27-09-2024,21,Gregory Ware,Male,Panama,5600,2,584433,5866,Medium,Bus,Couple,28843595717
+904,London,UK,30-03-2024,21-04-2024,22,Edward Clements,Other,Nicaragua,395,3,835630,1838,High,Bus,Family,27521149477
+905,Barcelona,Spain,01-09-2024,08-09-2024,7,Justin Goodwin,Male,Pakistan,1097,3,5521907,2831,Low,Air,Business,25858011842
+906,Barcelona,Spain,23-07-2023,07-08-2023,15,Gregory Allen,Male,Norway,6834,3,3086525,7425,Medium,Air,Solo,25858011842
+907,Dubai,UAE,04-11-2024,12-11-2024,8,Dana Williams,Female,Turks and Caicos Islands,6892,3,2685950,7238,Medium,Bus,Couple,26336822876
+908,London,UK,22-03-2024,15-04-2024,24,Robert Wilson,Other,Equatorial Guinea,2451,3,1712483,4255,Medium,Cruise,Group,27521149477
+909,Sydney,Australia,08-09-2024,25-09-2024,17,Allison Black,Female,Sierra Leone,8105,3,9546530,9434,Medium,Air,Couple,29339201955
+910,Bangkok,Thailand,03-05-2024,25-05-2024,22,Katie Tucker,Male,French Polynesia,7412,4,1659399,7594,High,Car,Couple,28843595717
+911,Dubai,UAE,13-06-2025,06-07-2025,23,Erica Miller,Other,Bhutan,2840,4,8946268,4229,High,Cruise,Solo,26336822876
+912,London,UK,24-11-2023,11-12-2023,17,Patricia Ferguson,Female,Nigeria,1597,4,5139762,2001,Low,Car,Group,27521149477
+913,Cape Town,South Africa,05-09-2023,21-09-2023,16,Mark Lewis,Female,Poland,9614,1,9344150,9870,Low,Cruise,Solo,28898545230
+914,Cape Town,South Africa,10-06-2024,26-06-2024,16,Christine Poole,Female,Turkey,1848,4,9637481,3612,Medium,Car,Family,28898545230
+915,Barcelona,Spain,11-02-2025,16-02-2025,5,Maria Case,Other,San Marino,566,1,7865820,1033,Low,Bus,Solo,25858011842
+916,New York,USA,30-12-2024,15-01-2025,16,Joe Rivera,Other,Benin,5176,3,9951721,6758,Medium,Bus,Business,25136471294
+917,London,UK,11-09-2023,24-09-2023,13,Robert Grant,Male,Montserrat,3758,2,1412322,5387,High,Car,Solo,27521149477
+918,Rome,Italy,15-04-2025,05-05-2025,20,David Hughes,Male,Niue,395,4,2057536,522,Low,Bus,Couple,26664516195
+919,Rome,Italy,26-05-2024,25-06-2024,30,Alan Nunez,Other,Marshall Islands,8274,3,6152024,9788,High,Bus,Family,26664516195
+920,New York,USA,21-07-2023,28-07-2023,7,Lisa Avila,Male,Mozambique,527,2,1977580,2298,Low,Train,Solo,25136471294
+921,Dubai,UAE,21-08-2023,08-09-2023,18,Angel Reilly,Other,Botswana,2678,2,7411317,4502,High,Cruise,Group,26336822876
+922,New York,USA,27-02-2024,10-03-2024,12,Elizabeth Miller,Female,Serbia,2727,4,7177958,2871,Low,Train,Group,25136471294
+923,Sydney,Australia,05-07-2025,23-07-2025,18,James Guerrero,Female,Lebanon,621,4,9918467,1217,Low,Car,Business,29339201955
+924,Rome,Italy,15-11-2023,19-11-2023,4,Brandy Myers,Female,South Georgia and the South Sandwich Islands,429,1,7344199,1380,Medium,Cruise,Business,26664516195
+925,Cape Town,South Africa,06-05-2025,18-05-2025,12,Toni Thomas,Male,Philippines,8287,4,8255420,9438,High,Cruise,Couple,28898545230
+926,Dubai,UAE,04-06-2025,29-06-2025,25,Rebecca Daniel,Male,Holy See (Vatican City State),8955,1,7180061,10235,Medium,Cruise,Solo,26336822876
+927,London,UK,25-07-2023,17-08-2023,23,Kristen Martinez,Female,Albania,8055,1,8401178,9430,High,Car,Couple,27521149477
+928,Rome,Italy,03-10-2024,06-10-2024,3,Kimberly Arroyo,Male,Gambia,5018,2,7972548,5822,Medium,Train,Business,26664516195
+929,Dubai,UAE,27-12-2023,17-01-2024,21,Stephanie Cooper,Other,Isle of Man,5856,5,7959576,6224,Medium,Bus,Couple,26336822876
+930,Bangkok,Thailand,19-06-2025,17-07-2025,28,Kayla Martin,Female,Cyprus,2954,5,3576383,3632,High,Air,Couple,28843595717
+931,Tokyo,Japan,07-11-2024,15-11-2024,8,Cheyenne White,Male,South Georgia and the South Sandwich Islands,2861,5,8357506,3167,Medium,Bus,Family,25514217912
+932,Dubai,UAE,29-09-2024,08-10-2024,9,Sarah Randolph,Other,Mayotte,1070,1,6119442,2974,Medium,Car,Group,26336822876
+933,Tokyo,Japan,09-07-2024,07-08-2024,29,Angel Powers,Other,El Salvador,823,1,5766248,1804,Low,Cruise,Group,25514217912
+934,New York,USA,01-10-2023,21-10-2023,20,Kevin Lynn,Male,Guinea-Bissau,8268,3,5809692,9975,Medium,Air,Business,25136471294
+935,London,UK,24-10-2023,31-10-2023,7,Cynthia Mitchell,Other,Bangladesh,8744,5,1847213,10290,Low,Bus,Couple,27521149477
+936,New York,USA,15-06-2025,21-06-2025,6,John Murphy,Other,Palestinian Territory,1969,5,804130,3107,Low,Train,Solo,25136471294
+937,Dubai,UAE,10-03-2024,24-03-2024,14,Brittany Knight,Male,Sri Lanka,5086,4,8587536,6206,High,Air,Group,26336822876
+938,Bangkok,Thailand,18-03-2024,31-03-2024,13,Caroline Edwards,Male,Solomon Islands,2314,2,7467017,3265,Low,Train,Couple,28843595717
+939,Bangkok,Thailand,05-01-2024,17-01-2024,12,Margaret Hill,Other,Guyana,3105,1,4563001,3967,High,Bus,Family,28843595717
+940,Dubai,UAE,29-10-2023,05-11-2023,7,Erin Castillo,Other,Kiribati,7209,2,2415160,8951,Medium,Bus,Couple,26336822876
+941,Sydney,Australia,20-04-2024,20-05-2024,30,Katelyn Rodriguez,Other,Oman,6227,1,7525238,6625,Low,Cruise,Solo,29339201955
+942,New York,USA,30-10-2024,12-11-2024,13,Douglas Serrano,Female,Uganda,6880,2,7382524,7105,Medium,Air,Group,25136471294
+943,Barcelona,Spain,07-09-2024,11-09-2024,4,Nicholas Sims,Other,Saint Lucia,8816,3,7134775,9739,High,Cruise,Family,25858011842
+944,Bangkok,Thailand,13-09-2023,27-09-2023,14,Sarah Welch,Male,Suriname,4883,5,2563932,6417,Medium,Bus,Group,28843595717
+945,Cape Town,South Africa,10-10-2024,01-11-2024,22,Patricia Lewis,Other,Argentina,7544,3,6886479,9232,Low,Car,Solo,28898545230
+946,Paris,France,17-09-2024,07-10-2024,20,Steven Fernandez,Female,Palau,6689,2,8832032,7896,Medium,Train,Solo,27439114547
+947,Cape Town,South Africa,10-03-2025,30-03-2025,20,James Vance,Female,Myanmar,8841,3,2784813,8988,Low,Cruise,Business,28898545230
+948,London,UK,05-02-2025,15-02-2025,10,Brandi Mason,Female,Bermuda,7226,5,1952907,8825,Low,Car,Family,27521149477
+949,Cape Town,South Africa,20-05-2024,03-06-2024,14,Adam Allen,Male,Sri Lanka,1082,1,7628555,1792,High,Air,Couple,28898545230
+950,Bangkok,Thailand,04-11-2024,14-11-2024,10,Nicole Taylor,Other,Cayman Islands,9828,5,9047098,11657,High,Train,Family,28843595717
+951,London,UK,03-12-2023,15-12-2023,12,Krystal Brennan,Other,Cameroon,9684,2,6436179,10848,High,Train,Solo,27521149477
+952,Bangkok,Thailand,07-02-2025,26-02-2025,19,Teresa Williams,Other,Senegal,3454,3,7722050,3754,Low,Bus,Couple,28843595717
+953,New York,USA,29-07-2024,03-08-2024,5,Dennis Young,Male,Paraguay,7261,2,8090200,7800,Medium,Air,Family,25136471294
+954,Cape Town,South Africa,24-12-2023,08-01-2024,15,Rebecca Hughes,Other,United States Virgin Islands,9458,5,6723350,11343,Medium,Cruise,Couple,28898545230
+955,Rome,Italy,04-07-2024,21-07-2024,17,Amanda Wong,Other,Bosnia and Herzegovina,8320,4,2832048,8715,High,Train,Couple,26664516195
+956,Sydney,Australia,13-01-2025,20-01-2025,7,Madeline Hill,Other,Saint Vincent and the Grenadines,8708,5,2080687,10230,Low,Bus,Couple,29339201955
+957,Paris,France,06-02-2024,03-03-2024,26,Laura Bennett,Male,Honduras,9459,3,2092563,10791,Medium,Air,Solo,27439114547
+958,Bangkok,Thailand,25-04-2024,16-05-2024,21,Stephanie Miller,Female,El Salvador,959,5,2672022,1300,Medium,Car,Family,28843595717
+959,London,UK,04-05-2024,16-05-2024,12,Courtney Sullivan,Female,Svalbard & Jan Mayen Islands,758,2,2484710,2463,High,Bus,Solo,27521149477
+960,London,UK,20-05-2025,01-06-2025,12,Ricky Eaton,Male,Albania,3299,4,134993,3649,High,Car,Solo,27521149477
+961,Paris,France,09-08-2024,25-08-2024,16,Jessica Hall,Female,Malawi,9689,3,9591944,10715,Medium,Bus,Couple,27439114547
+962,Barcelona,Spain,27-11-2024,04-12-2024,7,Chris Moore,Male,Netherlands Antilles,8570,4,7648562,10036,Medium,Train,Family,25858011842
+963,New York,USA,24-01-2025,21-02-2025,28,Mary Perry,Other,Greenland,7011,4,4006109,8954,Medium,Car,Business,25136471294
+964,Paris,France,26-01-2025,19-02-2025,24,Michael Mendoza,Female,Namibia,4844,1,2878554,6392,Low,Cruise,Family,27439114547
+965,Cape Town,South Africa,19-11-2023,12-12-2023,23,Jennifer Sanchez,Male,Brunei Darussalam,9464,1,3328384,10831,High,Cruise,Solo,28898545230
+966,Barcelona,Spain,04-10-2024,23-10-2024,19,Brandy Hunt,Male,Uganda,8096,5,413131,8442,High,Cruise,Group,25858011842
+967,Paris,France,03-10-2024,14-10-2024,11,Christopher Nielsen,Male,Malaysia,4318,5,7552933,4591,High,Cruise,Family,27439114547
+968,Rome,Italy,26-05-2024,16-06-2024,21,Kristy Smith,Male,Saint Helena,8352,1,5803524,9347,Low,Bus,Solo,26664516195
+969,Cape Town,South Africa,01-02-2025,14-02-2025,13,Diane Miller,Female,Kiribati,4513,1,2023417,4816,High,Train,Family,28898545230
+970,Tokyo,Japan,30-10-2024,07-11-2024,8,Sharon Jackson DVM,Female,Nepal,1768,2,5247152,2702,High,Train,Solo,25514217912
+971,Barcelona,Spain,04-11-2023,17-11-2023,13,Samantha White,Male,Palestinian Territory,745,1,5100018,1643,Low,Car,Group,25858011842
+972,Rome,Italy,16-08-2024,29-08-2024,13,Nathaniel Cooper,Female,Korea,6452,1,970370,6966,Low,Cruise,Business,26664516195
+973,Dubai,UAE,22-10-2024,09-11-2024,18,Crystal Cruz,Other,Botswana,8564,4,2030745,9215,Low,Car,Couple,26336822876
+974,Cape Town,South Africa,29-07-2023,14-08-2023,16,Scott Gordon,Male,Italy,8232,1,6936611,9629,Low,Air,Family,28898545230
+975,Cape Town,South Africa,18-04-2025,09-05-2025,21,Brent Alvarez,Other,New Zealand,1963,2,9406446,3397,Low,Car,Business,28898545230
+976,Rome,Italy,24-10-2024,10-11-2024,17,Richard Gordon,Male,British Indian Ocean Territory (Chagos Archipelago),8499,2,2488522,9363,High,Train,Group,26664516195
+977,Cape Town,South Africa,27-09-2023,13-10-2023,16,Mr. Larry Carey,Other,Ukraine,7701,1,116794,9465,Medium,Cruise,Family,28898545230
+978,Tokyo,Japan,14-07-2025,17-07-2025,3,Marie Boyd,Male,Heard Island and McDonald Islands,8200,3,4309218,10019,High,Bus,Family,25514217912
+979,Dubai,UAE,26-05-2025,16-06-2025,21,Joseph Perez,Other,Spain,4909,1,2808116,6522,High,Cruise,Solo,26336822876
+980,London,UK,25-07-2024,30-07-2024,5,Jane Chapman,Female,Saint Vincent and the Grenadines,2314,2,9436169,2986,Medium,Train,Business,27521149477
+981,Cape Town,South Africa,21-06-2025,19-07-2025,28,Melissa Davis,Female,Burkina Faso,5913,3,7695349,6572,Low,Car,Family,28898545230
+982,Dubai,UAE,30-01-2024,16-02-2024,17,David Trevino,Other,Finland,5681,1,2343545,7104,Low,Cruise,Couple,26336822876
+983,Paris,France,23-10-2024,26-10-2024,3,Jennifer Lopez,Other,Russian Federation,3143,4,9424619,5076,High,Bus,Couple,27439114547
+984,Cape Town,South Africa,13-02-2025,18-02-2025,5,Laura Wilson,Other,Albania,1570,5,619213,3497,High,Bus,Solo,28898545230
+985,Bangkok,Thailand,03-05-2024,01-06-2024,29,Melissa Stewart,Female,Guyana,6164,4,3072698,7982,High,Air,Solo,28843595717
+986,Sydney,Australia,07-10-2023,21-10-2023,14,Matthew King,Male,Timor-Leste,7583,1,3816501,9204,Low,Car,Family,29339201955
+987,Dubai,UAE,05-09-2024,10-09-2024,5,Jacob Hill,Other,Pitcairn Islands,5267,2,4030196,6378,Medium,Air,Family,26336822876
+988,Sydney,Australia,20-05-2024,14-06-2024,25,Jennifer Bowers,Other,Liberia,3725,1,3389790,5506,High,Bus,Solo,29339201955
+989,London,UK,02-12-2023,23-12-2023,21,Justin King,Other,Gambia,8393,2,9357419,8889,High,Cruise,Business,27521149477
+990,Barcelona,Spain,07-10-2024,15-10-2024,8,Michael Fitzgerald,Male,Timor-Leste,9936,2,1191346,10296,Medium,Cruise,Group,25858011842
+991,Cape Town,South Africa,17-05-2025,12-06-2025,26,Nicole Griffin,Female,Reunion,3443,1,9041274,4801,Medium,Cruise,Couple,28898545230
+992,Paris,France,19-11-2023,05-12-2023,16,Jordan Hartman,Other,Spain,1149,3,7356954,2978,Medium,Car,Solo,27439114547
+993,Cape Town,South Africa,16-09-2024,03-10-2024,17,Melinda Williams,Female,Iceland,6222,5,829216,8132,High,Train,Solo,28898545230
+994,London,UK,21-11-2024,07-12-2024,16,Brandon Thomas,Other,Vanuatu,7654,3,186558,8556,Low,Car,Solo,27521149477
+995,Barcelona,Spain,25-10-2024,22-11-2024,28,Austin Walker,Male,Belgium,3996,4,1348902,5974,Low,Train,Group,25858011842
+996,Bangkok,Thailand,01-11-2024,13-11-2024,12,James Joyce,Male,New Zealand,1884,1,8152500,2868,Low,Cruise,Family,28843595717
+997,London,UK,07-12-2024,17-12-2024,10,Michelle Harper,Male,Yemen,8059,2,5817708,9863,Low,Car,Business,27521149477
+998,Dubai,UAE,08-03-2025,13-03-2025,5,Margaret Gonzales,Other,Cook Islands,7484,1,7590291,8769,Low,Air,Solo,26336822876
+999,Paris,France,07-05-2025,22-05-2025,15,Regina Mitchell,Female,Antigua and Barbuda,1365,2,1140224,3347,Medium,Air,Family,27439114547
+1000,Barcelona,Spain,16-03-2025,08-04-2025,23,Kelli Hall,Female,Chile,1377,1,1036000,2622,Low,Car,Couple,25858011842
