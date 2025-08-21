@@ -1,0 +1,117 @@
+/* TravelViz Custom CSS - Professional Dark Theme */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root{
+  --bg1:#0f1531;
+  --bg2:#1a2147;
+  --accent1:#FF6B6B;
+  --accent2:#00D1FF;
+  --text:#ffffff;
+  --muted:#a0aec0;
+}
+
+/* Global */
+.stApp{ 
+  background: linear-gradient(135deg, var(--bg1) 0%, var(--bg2) 100%);
+  font-family:'Inter',sans-serif;
+}
+.main .block-container{max-width:100%; padding-top:2rem; padding-bottom:2rem;}
+
+/* Sidebar */
+.css-1d391kg, [data-testid="stSidebar"] > div:first-child{
+  background: linear-gradient(180deg, var(--bg1) 0%, var(--bg2) 100%);
+  border-right:2px solid rgba(255,107,107,.20);
+}
+.brand-head{ text-align:center; padding:1.5rem 0; }
+.brand{ color:var(--accent1); font-weight:700; font-size:1.4rem; }
+.welcome{ color:var(--muted); font-size:.9rem; margin-top:.1rem; }
+
+/* E-commerce style user actions (avatar + logout side by side) */
+.user-actions{ padding: .5rem 0 1rem 0; }
+.user-actions .stButton>button{ height:44px; }
+.avatar-wrap{
+  width:44px; height:44px; border-radius:50%;
+  overflow:hidden; border:2px solid rgba(0,209,255,.5);
+  box-shadow:0 6px 16px rgba(0,0,0,.35);
+}
+.avatar-wrap img{ width:100%; height:100%; object-fit:cover; display:block; }
+#profile_chip{ display:none; } /* we still show the 'Profile' button label; styling controlled below */
+
+/* Buttons */
+.stButton > button{
+  background: linear-gradient(45deg, var(--accent1), var(--accent2));
+  color:#fff; border:none; border-radius:15px;
+  padding:.65rem 1.2rem; font-weight:600;
+  transition:.25s ease; box-shadow:0 4px 15px rgba(255,107,107,.30);
+}
+.stButton > button:hover{ transform: translateY(-2px); box-shadow:0 8px 25px rgba(255,107,107,.40); }
+
+/* Cards – make all cards equal height */
+.metric-card{
+  background: linear-gradient(145deg, rgba(255,255,255,.06) 0%, rgba(255,255,255,.03) 100%);
+  border-radius:20px; padding:1.4rem; margin:1rem 0;
+  border:1px solid rgba(255,107,107,.12);
+  box-shadow:0 8px 32px rgba(0,0,0,.30);
+  backdrop-filter: blur(10px);
+  transition:.25s ease;
+  animation: slideInUp .6s ease-out;
+  display:flex; flex-direction:column; justify-content:center;
+}
+.metric-card:hover{ transform: translateY(-5px); box-shadow:0 15px 40px rgba(255,107,107,.20); border-color:rgba(255,107,107,.30); }
+
+/* Uniform card height class applied everywhere */
+.equal-card{ min-height: 160px; }
+
+/* For small stat cards on dashboard */
+.stat-card{ min-height: 140px; }
+
+/* Typography */
+.big-title{
+  font-size:3.2rem; font-weight:700;
+  background: linear-gradient(45deg, var(--accent1), var(--accent2));
+  -webkit-background-clip:text; -webkit-text-fill-color:transparent;
+  text-align:center; margin:2rem 0; animation: fadeInDown 1s ease-out;
+}
+.section-header{ font-size:2rem; font-weight:600; color:#fff; margin:2rem 0 1rem; text-align:center; }
+.card-title{ font-size:1.25rem; font-weight:600; color:#fff; margin-bottom:.6rem; }
+.card-subtitle{ font-size:1rem; color:var(--muted); margin-bottom:1rem; }
+
+/* Inputs */
+.stTextInput input, .stTextArea textarea, .stSelectbox select{
+  background:rgba(255,255,255,.06) !important;
+  border:1px solid rgba(255,107,107,.20) !important;
+  color:#fff !important; border-radius:12px !important; 
+}
+.stTextInput input:focus, .stTextArea textarea:focus{
+  border-color:var(--accent1) !important;
+  box-shadow:0 0 10px rgba(255,107,107,.30) !important;
+}
+
+/* Alerts */
+.stAlert>div{
+  background: linear-gradient(145deg, rgba(255,255,255,.06) 0%, rgba(255,255,255,.03) 100%);
+  border-radius:15px; border:1px solid rgba(255,107,107,.20);
+}
+
+/* Power BI frame wrapper */
+.powerbi-container{
+  background: linear-gradient(145deg, rgba(255,255,255,.06) 0%, rgba(255,255,255,.03) 100%);
+  border-radius:20px; padding:1rem; margin:1rem 0;
+  border:1px solid rgba(0,209,255,.20); box-shadow:0 8px 32px rgba(0,0,0,.30);
+}
+
+/* Animations */
+@keyframes fadeInDown{ from{opacity:0; transform:translateY(-30px);} to{opacity:1; transform:translateY(0);} }
+@keyframes slideInUp{ from{opacity:0; transform:translateY(30px);} to{opacity:1; transform:translateY(0);} }
+
+/* Hide Streamlit default chrome */
+#MainMenu{visibility:hidden;} footer{visibility:hidden;} header{visibility:hidden;}
+
+/* Responsive tweaks */
+@media (max-width: 768px){
+  .big-title{ font-size:2.2rem; }
+  .metric-card{ padding:1rem; margin:.6rem 0; }
+  .equal-card{ min-height: 140px; }
+}

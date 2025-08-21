@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+streamlit-lottie>=0.0.5
+streamlit-authenticator>=0.2.3
+streamlit-chat>=0.1.1
+pandas>=1.5.0
+sqlite3
+openai>=1.0.0
+requests>=2.28.0
+hashlib
+datetime
+json
+time
